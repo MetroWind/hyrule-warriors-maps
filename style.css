@@ -145,3 +145,26 @@ svg
 {
     display: none;
 }
+
+a#GithubLink
+{
+    display: block;
+}
+
+svg#GithubButton
+{
+    fill: black;
+    font-size: 10px;
+    position: fixed;
+    right: 0px;
+    bottom: 0px;
+    padding: 5px;
+    margin: 5px;
+    border-radius: 5px;
+}
+
+svg#GithubButton:hover
+{
+    fill: white;
+    background-color: black;
+}

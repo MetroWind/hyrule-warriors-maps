@@ -296,6 +296,10 @@ def genHtml():
         Lines.append('</div>')
 
     Lines.append('</div>')
+    Lines.append('<a href="https://github.com/MetroWind/hyrule-warriors-maps" id="GithubLink">')
+    with open("github.svg", 'r') as f:
+        Lines.append(f.read())
+    Lines.append('</a>')
     Lines.append('</div>')
     Lines.append('<script>')
     with open("logic.js", 'r') as f:

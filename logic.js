@@ -1,3 +1,15 @@
+// ========== Adjust SVG size =======================================>
+let GitHubBtn = document.getElementById("GithubButton");
+let GitHubBtnBox = GitHubBtn.getBBox();
+GitHubBtn.setAttribute("viewBox", (GitHubBtnBox.x - 0.5).toString() + " "
+                       + (GitHubBtnBox.y - 0.5).toString() + " "
+                       + GitHubBtnBox.width.toString() + " "
+                       + GitHubBtnBox.height.toString());
+GitHubBtn.setAttribute("width", GitHubBtnBox.width.toString());
+GitHubBtn.setAttribute("height", GitHubBtnBox.height.toString());
+
+// ========== UI logic =========================================>
+
 // String formatting
 if (!String.prototype.format) {
   String.prototype.format = function() {
