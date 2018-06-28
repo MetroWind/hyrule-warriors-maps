@@ -250,7 +250,12 @@ def genHtml():
     Lines.append('<div id="Content">')
     Lines.append('<header>')
     Lines.append('<h1>Hyrule Warriors Adventure Maps</h1>')
-    Lines.append('<p id="Attribution">Data extracted from Allen Tyner’s (aka. <a href="https://gamefaqs.gamespot.com/community/SBAllen">SBAllen</a>’s) <a href="https://gamefaqs.gamespot.com/3ds/167257-hyrule-warriors-legends/faqs/73095/">Unlockable Guide</a>.</p>')
+    Lines.append('<p id="Attribution">Data extracted from Allen Tyner’s '
+                 '(aka. <a href="https://gamefaqs.gamespot.com/community/SBAllen">'
+                 'SBAllen</a>’s) '
+                 '<a href="https://gamefaqs.gamespot.com/3ds/'
+                 '167257-hyrule-warriors-legends/faqs/73095/">'
+                 'Unlockables Guide</a>.</p>')
     Lines.append('</header>')
     Lines.append('<div id="maps">')
 
