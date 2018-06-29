@@ -7084,6 +7084,37 @@
   </map>
   <map name="Master Wind Waker">
     <tiles>
+      <tile coordinate="A1">
+        <mission>
+          <item>Adventure Battle: Don't leave your troops hanging!</item>
+          <item>Endless Night Rule: No Fairy Skills!</item>
+        </mission>
+        <loot-a/>
+        <loot-v>
+          <item>Masked (Wind Waker) - Cia</item>
+          <item>Unmasked (Wind Waker) - Cia</item>
+          <item>Hatless (Wind Waker) - Cia</item>
+          <item>Hyoi Pear Item Card</item>
+        </loot-v>
+        <treasure>
+          <item>Heart Container - Volga (Glutton's Keep)</item>
+          <item>Fairy Food - Life Tree Fruit (Beast's Refuge Keep [Pot])</item>
+        </treasure>
+        <ko-a>
+          <platform-specific>
+            <platform name="3ds"> 1200 </platform>
+            <platform name="switch"> 1600</platform>
+          </platform-specific>
+        </ko-a>
+        <time-a>15 Minutes</time-a>
+        <damage-a>
+          <platform-specific>
+            <platform name="3ds"> 10000 </platform>
+            <platform name="switch"> 199</platform>
+          </platform-specific>
+        </damage-a>
+        <difficulty>6</difficulty>
+      </tile>
       <tile coordinate="A2">
         <mission>
           <item>Adventure Battle: Fight your way through fire and flames!</item>
@@ -7206,6 +7237,31 @@
         <time-a>15 Minutes</time-a>
         <damage-a/>
         <difficulty>0</difficulty>
+      </tile>
+      <tile coordinate="B1">
+        <mission>
+          <item>Adventure Battle: Send the ghosts packing!</item>
+          <item>Endless Night Rule: No Guarding!</item>
+        </mission>
+        <loot-a/>
+        <loot-v>
+          <item>Standard Outfit (Wind Waker) - Volga</item>
+          <item>Salvage Arm Item Card</item>
+        </loot-v>
+        <treasure>
+          <item>Heart Container - Darunia (Central Keep)</item>
+          <item>Fairy Decoration - Twilight Aura (Arbiter's Keep)</item>
+          <item>Fairy Food - All-Purpose Bait (Enemy Base [Pot])</item>
+        </treasure>
+        <ko-a>
+          <platform-specific>
+            <platform name="3ds"> 1200 </platform>
+            <platform name="switch"> 1600</platform>
+          </platform-specific>
+        </ko-a>
+        <time-a>15 Minutes</time-a>
+        <damage-a/>
+        <difficulty>6</difficulty>
       </tile>
       <tile coordinate="B2">
         <mission>
@@ -7610,6 +7666,29 @@
         </damage-a>
         <difficulty>3</difficulty>
       </tile>
+      <tile coordinate="D7">
+        <mission>
+          <item>Adventure Battle: Final battle! Defeat the beast of Outset Island!</item>
+          <item>Endless Night Rule: No Fairy Magic!</item>
+        </mission>
+        <loot-a/>
+        <loot-v/>
+        <treasure>Heart Container - Medli (South Field Keep)</treasure>
+        <ko-a>
+          <platform-specific>
+            <platform name="3ds"> 1200 </platform>
+            <platform name="switch"> 1600</platform>
+          </platform-specific>
+        </ko-a>
+        <time-a>15 Minutes</time-a>
+        <damage-a>
+          <platform-specific>
+            <platform name="3ds"> 10000 </platform>
+            <platform name="switch"> 199</platform>
+          </platform-specific>
+        </damage-a>
+        <difficulty>6</difficulty>
+      </tile>
       <tile coordinate="E1">
         <mission>
           <item>Challenge Battle: Team up and defeat the enemy forces! Lv.5</item>
@@ -7726,6 +7805,36 @@
           </platform-specific>
         </damage-a>
         <difficulty>3</difficulty>
+      </tile>
+      <tile coordinate="E7">
+        <mission>
+          <item>Adventure Battle: Stop the fortifiers and barrier specialists!</item>
+          <item>Endless Night Rule: No Focus Spirit!</item>
+        </mission>
+        <loot-a/>
+        <loot-v>
+          <item>Standard Outfit (Wind Waker) - Ruto</item>
+          <item>Hookshot Item Card</item>
+        </loot-v>
+        <treasure>
+          <item>Heart Container - Wizzro (N. Entrance Keep)</item>
+          <item>Fairy Decoration - Star Aura (S. Entrance Keep)</item>
+          <item>Fairy Food - Mushroom Spores (Enemy Base [Pot])</item>
+        </treasure>
+        <ko-a>
+          <platform-specific>
+            <platform name="3ds"> 1200 </platform>
+            <platform name="switch"> 1600</platform>
+          </platform-specific>
+        </ko-a>
+        <time-a>15 Minutes</time-a>
+        <damage-a>
+          <platform-specific>
+            <platform name="3ds"> 10000 </platform>
+            <platform name="switch"> 199</platform>
+          </platform-specific>
+        </damage-a>
+        <difficulty>6</difficulty>
       </tile>
       <tile coordinate="F1">
         <mission>
@@ -7891,6 +8000,87 @@
         </damage-a>
         <difficulty>6</difficulty>
       </tile>
+      <tile coordinate="G2">
+        <mission>
+          <item>Adventure Battle: Help fight fire with fire!</item>
+          <item>Endless Night Rule: Speed Run!</item>
+        </mission>
+        <loot-a>Heart Container - Medli</loot-a>
+        <loot-v>Salvage Arm Item Card</loot-v>
+        <treasure>
+          <item>Piece of Heart - Medli (SW Sage Keep)</item>
+          <item>Fairy Accessory - Gerudo Jewel (SE Sage Keep)</item>
+          <item>Fairy Food - Carrot (Wind Plaza Keep [Pot])</item>
+        </treasure>
+        <ko-a>
+          <platform-specific>
+            <platform name="3ds"> 1200 </platform>
+            <platform name="switch"> 1600</platform>
+          </platform-specific>
+        </ko-a>
+        <time-a>15 Minutes</time-a>
+        <damage-a>
+          <platform-specific>
+            <platform name="3ds"> 10000 </platform>
+            <platform name="switch"> 199</platform>
+          </platform-specific>
+        </damage-a>
+        <difficulty>6</difficulty>
+      </tile>
+      <tile coordinate="G3">
+        <mission>
+          <item>Challenge Battle: Team up and defeat the enemy forces! Lv.7</item>
+          <item>Endless Night Rule: No Guarding!</item>
+        </mission>
+        <loot-a>Heart Container - Impa</loot-a>
+        <loot-v>Deku Leaf Item Card</loot-v>
+        <treasure/>
+        <ko-a/>
+        <time-a>15 Minutes</time-a>
+        <damage-a/>
+        <difficulty>6</difficulty>
+      </tile>
+      <tile coordinate="G4">
+        <mission>
+          <item>Adventure Battle: Run swiftly across the battlefield!</item>
+          <item>Endless Night Rule: No Fairy Skills!</item>
+        </mission>
+        <loot-a>Heart Container - Tingle</loot-a>
+        <loot-v>Power Bracelet Item Card</loot-v>
+        <treasure>Gold Skulltula x2</treasure>
+        <ko-a>
+          <platform-specific>
+            <platform name="3ds"> 1200 </platform>
+            <platform name="switch"> 1600</platform>
+          </platform-specific>
+        </ko-a>
+        <time-a>15 Minutes</time-a>
+        <damage-a>
+          <platform-specific>
+            <platform name="3ds"> 10000 </platform>
+            <platform name="switch"> 199</platform>
+          </platform-specific>
+        </damage-a>
+        <difficulty>6</difficulty>
+      </tile>
+      <tile coordinate="G5">
+        <mission>
+          <item>Challenge Battle: Win the Rupee competition! Lv.5</item>
+          <item>Endless Night Rule: No Healing!</item>
+        </mission>
+        <loot-a>Heart Container - Ghirahim</loot-a>
+        <loot-v>Deku Leaf Item Card</loot-v>
+        <treasure/>
+        <ko-a/>
+        <time-a/>
+        <damage-a>
+          <platform-specific>
+            <platform name="3ds"> 10000 </platform>
+            <platform name="switch"> 199</platform>
+          </platform-specific>
+        </damage-a>
+        <difficulty>6</difficulty>
+      </tile>
       <tile coordinate="G6">
         <mission>
           <item>Challenge Battle: Defeat all enemies! Lv.2</item>
@@ -7930,6 +8120,109 @@
           </platform-specific>
         </damage-a>
         <difficulty>3</difficulty>
+      </tile>
+      <tile coordinate="H1">
+        <mission>
+          <item>Challenge Battle: Fight through the hometown quiz!</item>
+          <item>Endless Night Rule: No Guarding!</item>
+        </mission>
+        <loot-a>Heart Container - Agitha</loot-a>
+        <loot-v>Boomerang Item Card</loot-v>
+        <treasure/>
+        <ko-a>3</ko-a>
+        <time-a>15 Minutes</time-a>
+        <damage-a/>
+        <difficulty>6</difficulty>
+      </tile>
+      <tile coordinate="H2">
+        <mission>
+          <item>Adventure Battle: It's royalty's time to take the spotlight!</item>
+          <item>Great Sea Rule: Don't Get Hit!</item>
+        </mission>
+        <loot-a/>
+        <loot-v/>
+        <treasure/>
+        <ko-a>
+          <platform-specific>
+            <platform name="3ds"> 1200 </platform>
+            <platform name="switch"> 1600</platform>
+          </platform-specific>
+        </ko-a>
+        <time-a>15 Minutes</time-a>
+        <damage-a>
+          <platform-specific>
+            <platform name="3ds"> 10000 </platform>
+            <platform name="switch"> 199</platform>
+          </platform-specific>
+        </damage-a>
+        <difficulty>6</difficulty>
+      </tile>
+      <tile coordinate="H3">
+        <mission>
+          <item>Challenge Battle: Defeat 1,000 enemies before the Rogue Forces do! Lv.2</item>
+          <item>Endless Night Rule: No Special Attacks!</item>
+        </mission>
+        <loot-a>Heart Container - Sheik</loot-a>
+        <loot-v>Boomerang Item Card</loot-v>
+        <treasure/>
+        <ko-a/>
+        <time-a>15 Minutes</time-a>
+        <damage-a>
+          <platform-specific>
+            <platform name="3ds"> 10000 </platform>
+            <platform name="switch"> 199</platform>
+          </platform-specific>
+        </damage-a>
+        <difficulty>6</difficulty>
+      </tile>
+      <tile coordinate="H4">
+        <mission>
+          <item>Adventure Battle: Will you fall, or will you bloom?</item>
+          <item>Endless Night Rule: Speed Run!</item>
+        </mission>
+        <loot-a>Heart Container - Young Link</loot-a>
+        <loot-v>Deku Leaf Item Card</loot-v>
+        <treasure>
+          <item>Piece of Heart - Medli (Lakeside Keep)</item>
+          <item>Fairy Headwear - Hyrule Crown (East Room Keep)</item>
+          <item>Fairy Food - Sacred Water (Lakeside Keep [Pot])</item>
+        </treasure>
+        <ko-a>
+          <platform-specific>
+            <platform name="3ds"> 1200 </platform>
+            <platform name="switch"> 1600</platform>
+          </platform-specific>
+        </ko-a>
+        <time-a>15 Minutes</time-a>
+        <damage-a>
+          <platform-specific>
+            <platform name="3ds"> 10000 </platform>
+            <platform name="switch"> 199</platform>
+          </platform-specific>
+        </damage-a>
+        <difficulty>6</difficulty>
+      </tile>
+      <tile coordinate="H5">
+        <mission>
+          <item>Challenge Battle: Defeat all Giant Bosses in time! Lv.3</item>
+          <item>Great Sea Rule: Don't Get Hit!</item>
+        </mission>
+        <loot-a>
+          <platform-specific>
+            <platform name="switch"> Helmaroc King's Mask Material</platform>
+          </platform-specific>
+        </loot-a>
+        <loot-v/>
+        <treasure/>
+        <ko-a/>
+        <time-a/>
+        <damage-a>
+          <platform-specific>
+            <platform name="3ds"> 10000 </platform>
+            <platform name="switch"> 199</platform>
+          </platform-specific>
+        </damage-a>
+        <difficulty>6</difficulty>
       </tile>
       <tile coordinate="H6">
         <mission>
@@ -7971,6 +8264,133 @@
         </damage-a>
         <difficulty>3</difficulty>
       </tile>
+      <tile coordinate="I1">
+        <mission>
+          <item>Adventure Battle: Final battle! Defeat the beast of Crescent Moon Island!</item>
+          <item>Engless Night Rule: No Special Attacks!</item>
+        </mission>
+        <loot-a>Heart Container - Midna</loot-a>
+        <loot-v>Wind Waker Item Card</loot-v>
+        <treasure>Gold Skulltula x2</treasure>
+        <ko-a>
+          <platform-specific>
+            <platform name="3ds"> 1200 </platform>
+            <platform name="switch"> 1600</platform>
+          </platform-specific>
+        </ko-a>
+        <time-a>15 Minutes</time-a>
+        <damage-a>
+          <platform-specific>
+            <platform name="3ds"> 10000 </platform>
+            <platform name="switch"> 199</platform>
+          </platform-specific>
+        </damage-a>
+        <difficulty>6</difficulty>
+      </tile>
+      <tile coordinate="I2">
+        <mission>
+          <item>Challenge Battle: Watch out! All attacks are devastating! Lv.4</item>
+          <item>Engless Night Rule: No Fairy Magic!</item>
+        </mission>
+        <loot-a>Heart Container - Twili Midna</loot-a>
+        <loot-v>Cannon Item Card</loot-v>
+        <treasure/>
+        <ko-a/>
+        <time-a>15 Minutes</time-a>
+        <damage-a>
+          <platform-specific>
+            <platform name="3ds"> 10000 </platform>
+            <platform name="switch"> 199</platform>
+          </platform-specific>
+        </damage-a>
+        <difficulty>6</difficulty>
+      </tile>
+      <tile coordinate="I3">
+        <mission>
+          <item>Adventure Battle: Fight the heroes of the Wind Waker!</item>
+          <item>Endless Night Rule: No Focus Spirit!</item>
+        </mission>
+        <loot-a>Heart Container - Volga</loot-a>
+        <loot-v>Hookshot Item Card</loot-v>
+        <treasure>
+          <item>Piece of Heart - Medli (Central Keep)</item>
+          <item>Fairy Headwear - Usurper Crown (North Square Keep)</item>
+          <item>Fairy Food - Stamina Fruit (S. Entrance Keep [Pot])</item>
+        </treasure>
+        <ko-a>
+          <platform-specific>
+            <platform name="3ds"> 1200 </platform>
+            <platform name="switch"> 1600</platform>
+          </platform-specific>
+        </ko-a>
+        <time-a>15 Minutes</time-a>
+        <damage-a>
+          <platform-specific>
+            <platform name="3ds"> 10000 </platform>
+            <platform name="switch"> 199</platform>
+          </platform-specific>
+        </damage-a>
+        <difficulty>6</difficulty>
+      </tile>
+      <tile coordinate="I4">
+        <mission>
+          <item>Adventure Battle: It's curtain call for Medli's band!</item>
+          <item>Endless Night Rule: No Fairy Skills!</item>
+        </mission>
+        <loot-a/>
+        <loot-v>
+          <item>Standard Outfit (Wind Waker) - Twili Midna</item>
+          <item>Salvage Arm Item Card</item>
+        </loot-v>
+        <treasure>
+          <item>Heart Container - Cia (Southeast Keep)</item>
+          <item>Fairy Food - Light Fruit (West Cannon Keep [Pot])</item>
+        </treasure>
+        <ko-a>
+          <platform-specific>
+            <platform name="3ds"> 1200 </platform>
+            <platform name="switch"> 1600</platform>
+          </platform-specific>
+        </ko-a>
+        <time-a>15 Minutes</time-a>
+        <damage-a>
+          <platform-specific>
+            <platform name="3ds"> 10000 </platform>
+            <platform name="switch"> 199</platform>
+          </platform-specific>
+        </damage-a>
+        <difficulty>6</difficulty>
+      </tile>
+      <tile coordinate="I5">
+        <mission>
+          <item>Adventure Battle: A leader never sleeps!</item>
+          <item>Endless Night Rule: No Fairy Magic!</item>
+        </mission>
+        <loot-a/>
+        <loot-v>
+          <item>Standard Outfit (Wind Waker) - Lana</item>
+          <item>Hyoi Pear Item Card</item>
+        </loot-v>
+        <treasure>
+          <item>Heart Container - Linkle (W. Rockface Keep)</item>
+          <item>Fairy Top - Usurper Robe (Castle Keep)</item>
+          <item>Fairy Food - Mushroom Spores (Fairy Fountain Keep [Pot])</item>
+        </treasure>
+        <ko-a>
+          <platform-specific>
+            <platform name="3ds"> 1200 </platform>
+            <platform name="switch"> 1600</platform>
+          </platform-specific>
+        </ko-a>
+        <time-a>15 Minutes</time-a>
+        <damage-a>
+          <platform-specific>
+            <platform name="3ds"> 10000 </platform>
+            <platform name="switch"> 199</platform>
+          </platform-specific>
+        </damage-a>
+        <difficulty>6</difficulty>
+      </tile>
       <tile coordinate="I6">
         <mission>
           <item>Challenge Battle: Guard the allied keeps with your life! Lv.1</item>
@@ -8009,6 +8429,84 @@
           </platform-specific>
         </damage-a>
         <difficulty>3</difficulty>
+      </tile>
+      <tile coordinate="J1">
+        <mission>
+          <item>Challenge Battle: Defeat all enemies! Lv.3</item>
+          <item>Endless Night Rule: No Healing!</item>
+        </mission>
+        <loot-a>Heart Container - Toon Link</loot-a>
+        <loot-v>Hammer Item Card</loot-v>
+        <treasure/>
+        <ko-a/>
+        <time-a>15 Minutes</time-a>
+        <damage-a>
+          <platform-specific>
+            <platform name="3ds"> 10000 </platform>
+            <platform name="switch"> 199</platform>
+          </platform-specific>
+        </damage-a>
+        <difficulty>6</difficulty>
+      </tile>
+      <tile coordinate="J2">
+        <mission>
+          <item>Challenge Battle: Defeat all Giant Bosses in time! Lv.2</item>
+          <item>Endless Night Rule: No Guarding!</item>
+        </mission>
+        <loot-a>Heart Container - Link</loot-a>
+        <loot-v>Deku Leaf Item Card</loot-v>
+        <treasure/>
+        <ko-a/>
+        <time-a>15 Minutes</time-a>
+        <damage-a/>
+        <difficulty>6</difficulty>
+      </tile>
+      <tile coordinate="J3">
+        <mission>
+          <item>Challenge Battle: Learn the key to a balanced attack! Lv.3</item>
+          <item>Endless Night Rule: No Fairy Magic!</item>
+        </mission>
+        <loot-a>Heart Container - Toon Link</loot-a>
+        <loot-v>Salvage Arm Item Card</loot-v>
+        <treasure/>
+        <ko-a/>
+        <time-a>15 Minutes</time-a>
+        <damage-a>
+          <platform-specific>
+            <platform name="3ds"> 10000 </platform>
+            <platform name="switch"> 199</platform>
+          </platform-specific>
+        </damage-a>
+        <difficulty>6</difficulty>
+      </tile>
+      <tile coordinate="J4">
+        <mission>
+          <item>Adventure Battle: Best the secretive enemies!</item>
+          <item>Endless Night Rule: No Focus Spirit!</item>
+        </mission>
+        <loot-a/>
+        <loot-v>
+          <item>Standard Outfit (Wind Waker) - Sheik</item>
+          <item>Deku Leaf Item Card</item>
+        </loot-v>
+        <treasure>
+          <item>Heart Container - Impa (King's Hall Keep)</item>
+          <item>Fairy Food - Elixir Soup (King's Hall Keep [Pot])</item>
+        </treasure>
+        <ko-a>
+          <platform-specific>
+            <platform name="3ds"> 1200 </platform>
+            <platform name="switch"> 1600</platform>
+          </platform-specific>
+        </ko-a>
+        <time-a>15 Minutes</time-a>
+        <damage-a>
+          <platform-specific>
+            <platform name="3ds"> 10000 </platform>
+            <platform name="switch"> 199</platform>
+          </platform-specific>
+        </damage-a>
+        <difficulty>6</difficulty>
       </tile>
       <tile coordinate="J5">
         <mission>
@@ -8072,6 +8570,42 @@
           </platform-specific>
         </damage-a>
         <difficulty>3</difficulty>
+      </tile>
+      <tile coordinate="K1">
+        <mission>
+          <item>Challenge Battle: Put an end to the enemy's divisibe plan! Lv.5</item>
+          <item>Endless Night Rule: No Guarding!</item>
+        </mission>
+        <loot-a>Heart Container - Skull Kid</loot-a>
+        <loot-v>Compass Item Card</loot-v>
+        <treasure/>
+        <ko-a/>
+        <time-a>15 Minutes</time-a>
+        <damage-a/>
+        <difficulty>6</difficulty>
+      </tile>
+      <tile coordinate="K2">
+        <mission>
+          <item>Adventure Battle: Defeat the Wizard Forces!</item>
+          <item>Great Sea Rule: Double Damage!</item>
+        </mission>
+        <loot-a/>
+        <loot-v/>
+        <treasure/>
+        <ko-a>
+          <platform-specific>
+            <platform name="3ds"> 1200 </platform>
+            <platform name="switch"> 1600</platform>
+          </platform-specific>
+        </ko-a>
+        <time-a>15 Minutes</time-a>
+        <damage-a>
+          <platform-specific>
+            <platform name="3ds"> 10000 </platform>
+            <platform name="switch"> 199</platform>
+          </platform-specific>
+        </damage-a>
+        <difficulty>6</difficulty>
       </tile>
       <tile coordinate="K3">
         <mission>
