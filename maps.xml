@@ -50,8 +50,8 @@
         <loot-a>Heart Container - Impa</loot-a>
         <loot-v/>
         <treasure>
-          <item>Piece of Heart - Toon Link (West Square Keep)</item>
-          <item>My Fairy - Fire (Fairy Fountain Keep [Jar])</item>
+          <item>Piece of Heart - Toon Link (West Square)</item>
+          <item>My Fairy - Fire (Fairy Fountain [Jar])</item>
           <item>Fairy Food - Weird Egg (Dark Forest Keep [Jar])</item>
         </treasure>
         <ko-a>1200</ko-a>
@@ -69,8 +69,8 @@
         <loot-a>Heart Container - Zant</loot-a>
         <loot-v/>
         <treasure>
-          <item>Piece of Heart - Zant (Southeast Square Keep)</item>
-          <item>Fairy Food - Odd Mushroom (Fairy Fountain Keep [Pot])</item>
+          <item>Piece of Heart - Zant (Southeast Square)</item>
+          <item>Fairy Food - Odd Mushroom (Fairy Fountain [Pot])</item>
         </treasure>
         <ko-a>1200</ko-a>
         <time-a>15 Minutes</time-a>
@@ -264,7 +264,7 @@
         <loot-v>Skyloft Robes - Zelda</loot-v>
         <treasure>
           <item>Heart Container - Zelda (Eastern Room Keep)</item>
-          <item>Piece of Heart - Zelda (South Temple Keep)</item>
+          <item>Piece of Heart - Zelda (South Temple)</item>
           <item>Fairy Top - Spirit Dress (East Keep)</item>
         </treasure>
         <ko-a>1200</ko-a>
@@ -411,7 +411,7 @@
           </platform-specific>
         </loot-v>
         <treasure>
-          <item>Heart Container - Zant (Fairy Fountain Keep)</item>
+          <item>Heart Container - Zant (Fairy Fountain)</item>
           <item>Piece of Heart - Young Link (Castle Keep)</item>
           <item>Fairy Accessory - Demon Lord Earrings (Mountain Keep)</item>
         </treasure>
@@ -468,7 +468,7 @@
         <loot-a>Heart Container - Twili Midna</loot-a>
         <loot-v/>
         <treasure>
-          <item>Piece of Heart - Twili Midna (South Square Keep)</item>
+          <item>Piece of Heart - Twili Midna (South Square)</item>
           <item>Gold Skulltula x2</item>
         </treasure>
         <ko-a>
@@ -600,7 +600,7 @@
         <mission>Adventure Battle: Attend the Festival of Cuccos!</mission>
         <loot-a>Heart Container - Ganondorf</loot-a>
         <loot-v/>
-        <treasure>Fairy Food - Lon Lon Milk (Fairy Fountain Keep [Pot])</treasure>
+        <treasure>Fairy Food - Lon Lon Milk (Fairy Fountain [Pot])</treasure>
         <ko-a>
           <platform-specific>
             <platform name="3ds"> 1200 </platform>
@@ -882,8 +882,8 @@
         <treasure>
           <item>Piece of Heart - Tingle (Town Center Keep)</item>
           <platform-specific>
-            <platform name="3ds"> Fairy Headwear - King of Red Lions Mask (Central Square Keep)</platform>
-            <platform name="switch"> Fairy Accessory - Twilight Jewel (Central Square Keep)</platform>
+            <platform name="3ds"> Fairy Headwear - King of Red Lions Mask (Central Square)</platform>
+            <platform name="switch"> Fairy Accessory - Twilight Jewel (Central Square)</platform>
           </platform-specific>
         </treasure>
         <ko-a>
@@ -926,8 +926,8 @@
           </platform-specific>
         </loot-v>
         <treasure>
-          <item>Heart Container - Zant (Southeast Square Keep)</item>
-          <item>Piece of Heart - Zant (Central Square Keep)</item>
+          <item>Heart Container - Zant (Southeast Square)</item>
+          <item>Piece of Heart - Zant (Central Square)</item>
         </treasure>
         <ko-a>1200</ko-a>
         <time-a>7 Minutes</time-a>
@@ -944,9 +944,9 @@
         <loot-a>Heart Container - Tingle</loot-a>
         <loot-v/>
         <treasure>
-          <item>Piece of Heart - Toon Link (South Square Keep)</item>
-          <item>Fairy Headwear - Kokiri Band (North Square Keep)</item>
-          <item>Fairy Food - Odd Mushroom (Western Tree Keep [Pot])</item>
+          <item>Piece of Heart - Toon Link (South Square)</item>
+          <item>Fairy Headwear - Kokiri Band (North Square)</item>
+          <item>Fairy Food - Odd Mushroom (Western Tree [Pot])</item>
         </treasure>
         <ko-a>
           <platform-specific>
@@ -1173,7 +1173,7 @@
         <loot-v/>
         <treasure>
           <item>Heart Container - Lana (King's Hall Keep)</item>
-          <item>Piece of Heart - Lana (Southeast Square Keep)</item>
+          <item>Piece of Heart - Lana (Southeast Square)</item>
         </treasure>
         <ko-a>
           <platform-specific>
@@ -1218,8 +1218,8 @@
         <loot-a>Heart Container - Midna</loot-a>
         <loot-v/>
         <treasure>
-          <item>Piece of Heart - Midna (Central Square Keep)</item>
-          <item>Fairy Bottoms - Sheikah Leggings (West Square Keep)</item>
+          <item>Piece of Heart - Midna (Central Square)</item>
+          <item>Fairy Bottoms - Sheikah Leggings (West Square)</item>
         </treasure>
         <ko-a>1200</ko-a>
         <time-a>15 Minutes</time-a>
@@ -1251,8 +1251,8 @@
         <loot-a>Heart Container - Toon Link</loot-a>
         <loot-v/>
         <treasure>
-          <item>Piece of Heart - Tingle (West Square Keep)</item>
-          <item>Fairy Top - Kokiri Cardigan (South Square Keep)</item>
+          <item>Piece of Heart - Tingle (West Square)</item>
+          <item>Fairy Top - Kokiri Cardigan (South Square)</item>
         </treasure>
         <ko-a>
           <platform-specific>
@@ -1294,7 +1294,7 @@
           </platform-specific>
         </loot-v>
         <treasure>
-          <item>Heart Container - Impa (Fairy Fountain Keep)</item>
+          <item>Heart Container - Impa (Fairy Fountain)</item>
           <item>Piece of Heart - Twili Midna (Castle Keep)</item>
           <item>Fairy Bottoms - Kokiri Shorts (Mountain Keep)</item>
         </treasure>
@@ -1318,8 +1318,8 @@
         <loot-a>Heart Container - Sheik</loot-a>
         <loot-v>Candle Item Card</loot-v>
         <treasure>
-          <item>Piece of Heart - Toon Link (Deku Tree Keep)</item>
-          <item>Fairy Food - Deku Nut (Southern Tree Keep [Pot])</item>
+          <item>Piece of Heart - Toon Link (Deku Tree )</item>
+          <item>Fairy Food - Deku Nut (Southern Tree [Pot])</item>
         </treasure>
         <ko-a>
           <platform-specific>
@@ -1474,7 +1474,7 @@
         <mission>Challenge Battle: Defend the allied keeps! Lv.2</mission>
         <loot-a>Heart Container - Lana</loot-a>
         <loot-v/>
-        <treasure>Fairy Top - Royal Tunic (East Temple Hall Keep)</treasure>
+        <treasure>Fairy Top - Royal Tunic (East Temple Hall)</treasure>
         <ko-a>
           <platform-specific>
             <platform name="3ds"> 1200 </platform>
@@ -1570,8 +1570,8 @@
         <loot-a>Naginata Lv.1 - Impa</loot-a>
         <loot-v/>
         <treasure>
-          <item>Heart Container - Impa (Fairy Fountain Keep)</item>
-          <item>Fairy Headwear - Kokiri band (Eastern Tree Keep)</item>
+          <item>Heart Container - Impa (Fairy Fountain)</item>
+          <item>Fairy Headwear - Kokiri band (Eastern Tree)</item>
         </treasure>
         <ko-a>
           <platform-specific>
@@ -1615,8 +1615,8 @@
           <item>Skull Kid Piece of Heart (Stronghold Keep)</item>
           <item>Gold Skulltula x2</item>
         </treasure>
-        <ko-a/>
-        <time-a>7 Minutes</time-a>
+        <ko-a>1200</ko-a>
+        <time-a>15 Minutes</time-a>
         <damage-a>
           <platform-specific>
             <platform name="3ds"> 4000 </platform>
@@ -1989,7 +1989,7 @@
         <loot-a>Gauntlets Lv.1 - Link</loot-a>
         <loot-v/>
         <treasure>
-          <item>Piece of Heart - Link (Temple Square Keep)</item>
+          <item>Piece of Heart - Link (Temple Square)</item>
           <item>Gold Skulltula x2</item>
         </treasure>
         <ko-a>
@@ -2012,7 +2012,7 @@
         <loot-a>Heart Container - Fi</loot-a>
         <loot-v/>
         <treasure>
-          <item>Piece of Heart - Fi (Southeast Square Keep)</item>
+          <item>Piece of Heart - Fi (Southeast Square)</item>
           <item>Fairy Bottoms - Pirate Slacks (Upper Level East Keep)</item>
         </treasure>
         <ko-a>
@@ -2089,7 +2089,7 @@
         <loot-v/>
         <treasure>
           <item>Piece of Heart - Impa (N. Entrance Keep)</item>
-          <item>Fairy Accessory - Pirate Bandana (South Square Keep)</item>
+          <item>Fairy Accessory - Pirate Bandana (South Square)</item>
         </treasure>
         <ko-a>
           <platform-specific>
@@ -2126,7 +2126,7 @@
         <loot-a>Heart Container - Skull Kid</loot-a>
         <loot-v/>
         <treasure>
-          <item>Piece of Heart - Skull Kid (South Temple Keep)</item>
+          <item>Piece of Heart - Skull Kid (South Temple)</item>
           <item>Fairy Accessory - Zora Earrings (East Keep)</item>
         </treasure>
         <ko-a>1200</ko-a>
@@ -2192,9 +2192,9 @@
         <treasure>
           <platform-specific>
             <platform name="3ds"> Heart Container - Zelda (Arbiter's Keep)</platform>
-            <platform name="3ds"> Piece of Heart - Toon Link (North Oasis Keep)</platform>
+            <platform name="3ds"> Piece of Heart - Toon Link (North Oasis)</platform>
             <platform name="switch"> Heart Container - Linkle (Arbiter's Keep)</platform>
-            <platform name="switch"> Piece of Heart - Linkle (North Oasis Keep)</platform>
+            <platform name="switch"> Piece of Heart - Linkle (North Oasis)</platform>
           </platform-specific>
         </treasure>
         <ko-a>
@@ -2236,7 +2236,7 @@
         <mission>Adventure Battle: Survive the attack of those powered-up enemies!</mission>
         <loot-a>Heart Container - Lana</loot-a>
         <loot-v/>
-        <treasure>Fairy Bottoms - Royal Skirt (North Square Keep)</treasure>
+        <treasure>Fairy Bottoms - Royal Skirt (North Square)</treasure>
         <ko-a>
           <platform-specific>
             <platform name="3ds"> 1200 </platform>
@@ -2488,9 +2488,9 @@
         <loot-a/>
         <loot-v>Hammer Item Card</loot-v>
         <treasure>
-          <item>Heart Container - King Daphnes (Fairy Fountain Keep)</item>
+          <item>Heart Container - King Daphnes (Fairy Fountain)</item>
           <item>Piece of Heart - King Daphnes (Castle Keep)</item>
-          <item>Fairy Headwear - Phantom Horns (Abandoned Fort Keep)</item>
+          <item>Fairy Headwear - Phantom Horns (Abandoned Fort)</item>
         </treasure>
         <ko-a>1200</ko-a>
         <time-a>15 Minutes</time-a>
@@ -2761,7 +2761,7 @@
         <loot-a>Goddess Blade Lv.2 - Fi</loot-a>
         <loot-v>Deku Leaf Item Card</loot-v>
         <treasure>
-          <item>Heart Container - Fi (North Oasis Keep)</item>
+          <item>Heart Container - Fi (North Oasis)</item>
           <item>My Fairy - Light (S. Desert Keep [Pot])</item>
           <item>Fairy Food - (Enemy Base [Pot])</item>
         </treasure>
@@ -2955,8 +2955,8 @@
         <loot-a>Heart Container - King Daphnes</loot-a>
         <loot-v>Deku Leaf Item Card</loot-v>
         <treasure>
-          <item>Piece of Heart - King Daphnes (Crystal Cave Keep)</item>
-          <item>Fairy Decoration - Farore's Aura (Stone Square Keep)</item>
+          <item>Piece of Heart - King Daphnes (Crystal Cave)</item>
+          <item>Fairy Decoration - Farore's Aura (Stone Square)</item>
         </treasure>
         <ko-a>1200</ko-a>
         <time-a>15 Minutes</time-a>
@@ -3249,7 +3249,7 @@
         <loot-v>Deku Leaf Item Card</loot-v>
         <treasure>
           <item>Heart Container - Zant (North Field Keep)</item>
-          <item>Fairy Top - Wind Robe (Fairy Fountain Keep)</item>
+          <item>Fairy Top - Wind Robe (Fairy Fountain)</item>
         </treasure>
         <ko-a>
           <platform-specific>
@@ -3386,7 +3386,7 @@
         <loot-a>Demon Blade Lv.2 - Ghirahim</loot-a>
         <loot-v>Deku Leaf Item Card</loot-v>
         <treasure>
-          <item>Heart Container - Ghirahim (West Temple Keep)</item>
+          <item>Heart Container - Ghirahim (West Temple)</item>
           <item>Fairy Decoration - Treasure Aura (East Keep)</item>
           <item>Fairy Food - Carrot (Eastern Room Keep [Pot])</item>
         </treasure>
@@ -3616,7 +3616,7 @@
         <loot-a>Shackle Lv.2 - Midna</loot-a>
         <loot-v>Deku Leaf Item Card</loot-v>
         <treasure>
-          <item>Heart Container - Midna (West Temple Keep)</item>
+          <item>Heart Container - Midna (West Temple)</item>
           <item>My Fairy - Water (Ruins Summit Keep [Pot])</item>
         </treasure>
         <ko-a>
@@ -3794,8 +3794,8 @@
         <loot-a>Piece of Heart - King Daphnes</loot-a>
         <loot-v>Sea Chart Item Card</loot-v>
         <treasure>
-          <item>Heart Container - King Daphnes (North Square Keep)</item>
-          <item>Fairy Headwear - Korok Mask (Southeast Tree Keep)</item>
+          <item>Heart Container - King Daphnes (North Square)</item>
+          <item>Fairy Headwear - Korok Mask (Southeast Tree)</item>
         </treasure>
         <ko-a>
           <platform-specific>
@@ -3915,8 +3915,8 @@
         <loot-a>Piece of Heart - King Daphnes</loot-a>
         <loot-v>Salvage Arm Item Card</loot-v>
         <treasure>
-          <item>Heart Container - King Daphnes (South Square Keep)</item>
-          <item>Fairy Decoration - Wind Aura (Tunnel Square Keep)</item>
+          <item>Heart Container - King Daphnes (South Square)</item>
+          <item>Fairy Decoration - Wind Aura (Tunnel Square)</item>
         </treasure>
         <ko-a>
           <platform-specific>
@@ -3992,7 +3992,7 @@
         <loot-v>Wind Waker Item Card</loot-v>
         <treasure>
           <item>Heart Container - Zelda (Stock Room Keep)</item>
-          <item>Fairy Headwear - Rito Mask (South Square Keep)</item>
+          <item>Fairy Headwear - Rito Mask (South Square)</item>
         </treasure>
         <ko-a>
           <platform-specific>
@@ -4122,7 +4122,7 @@
         <loot-a>Spear Lv.2 - Lana</loot-a>
         <loot-v>Hyoi Pear Item Card</loot-v>
         <treasure>
-          <item>Piece of Heart - Lana (West Square Keep)</item>
+          <item>Piece of Heart - Lana (West Square)</item>
           <item>Gold Skulltula x2</item>
         </treasure>
         <ko-a>
@@ -4163,9 +4163,9 @@
         <loot-a>Light Sword Lv.2 - Toon Link</loot-a>
         <loot-v>Salvage Arm Item Card</loot-v>
         <treasure>
-          <item>Heart Container - Toon Link (Fairy Fountain Keep)</item>
+          <item>Heart Container - Toon Link (Fairy Fountain)</item>
           <item>Fairy Decoration - Pirate Aura (North Field Keep)</item>
-          <item>Fairy Food - All-Purpose Bait (Fairy Fountain Keep [Pot])</item>
+          <item>Fairy Food - All-Purpose Bait (Fairy Fountain [Pot])</item>
         </treasure>
         <ko-a>
           <platform-specific>
@@ -4228,8 +4228,8 @@
         <loot-a>Magic Rod Lv.2 - Link</loot-a>
         <loot-v>Salvage Arm Item Card</loot-v>
         <treasure>
-          <item>My Fairy - Fire (Fairy Fountain Keep [Pot])</item>
-          <item>Fairy Food - Hyoi Pear (West Temple Keep [Pot])</item>
+          <item>My Fairy - Fire (Fairy Fountain [Pot])</item>
+          <item>Fairy Food - Hyoi Pear (West Temple [Pot])</item>
         </treasure>
         <ko-a>
           <platform-specific>
@@ -4477,7 +4477,7 @@
         <treasure>
           <item>Piece of Heart - Volga (Arbiter's Keep)</item>
           <item>My Fairy - Lightning (Clifftop Keep [Pot])</item>
-          <item>Fairy Food - Mushroom Spores (North Oasis Keep [Pot])</item>
+          <item>Fairy Food - Mushroom Spores (North Oasis [Pot])</item>
         </treasure>
         <ko-a>1200</ko-a>
         <time-a>15 Minutes</time-a>
@@ -4577,8 +4577,8 @@
         <loot-a>Hammer Lv.3 - Darunia</loot-a>
         <loot-v>Bomb Item Card</loot-v>
         <treasure>
-          <item>Heart Container - Darunia (West Square Keep)</item>
-          <item>Fairy Accessory - Demon Lord Earrings (Exit Square Keep)</item>
+          <item>Heart Container - Darunia (West Square)</item>
+          <item>Fairy Accessory - Demon Lord Earrings (Exit Square)</item>
         </treasure>
         <ko-a>
           <platform-specific>
@@ -4663,7 +4663,7 @@
         </mission>
         <loot-a>Naginata Lv.3 - Impa</loot-a>
         <loot-v>Recorder Item Card</loot-v>
-        <treasure>Fairy Food - Sacred Water (Rocky Square Keep [Pot])</treasure>
+        <treasure>Fairy Food - Sacred Water (Rocky Square [Pot])</treasure>
         <ko-a>
           <platform-specific>
             <platform name="3ds"> 1200 </platform>
@@ -4959,7 +4959,7 @@
         <loot-a>Ocarina Lv.3 - Skull Kid</loot-a>
         <loot-v/>
         <treasure>
-          <item>Heart Container - Skull Kid (West Temple Keep)</item>
+          <item>Heart Container - Skull Kid (West Temple)</item>
           <item>Gold Skulltula x2</item>
         </treasure>
         <ko-a>1200</ko-a>
@@ -5061,7 +5061,7 @@
         <loot-a>Balloon Lv.3 - Tingle</loot-a>
         <loot-v>Power Bracelet Item Card</loot-v>
         <treasure>
-          <item>Heart Container - Tingle (Southeast Square Keep)</item>
+          <item>Heart Container - Tingle (Southeast Square)</item>
           <item>Fairy Food - Light Fruit (North Palace Keep [Pot])</item>
         </treasure>
         <ko-a>
@@ -5297,7 +5297,7 @@
         <loot-v>Standard Outfit (Master Quest) - Impa</loot-v>
         <treasure>
           <item>Heart Container - Impa (Stock Room Keep)</item>
-          <item>Fairy Top - Skyloft Shirt (Stone Square Keep)</item>
+          <item>Fairy Top - Skyloft Shirt (Stone Square)</item>
           <item>Fairy Food - Water Fruit (Stock Room Keep [Pot])</item>
         </treasure>
         <ko-a>
@@ -5441,7 +5441,7 @@
         <loot-a>Heart Container - King Daphnes</loot-a>
         <loot-v/>
         <treasure>
-          <item>Fairy Top - Skyloft Apron (South Square Keep)</item>
+          <item>Fairy Top - Skyloft Apron (South Square)</item>
           <item>Fairy Food - Mushroom Spores (Enemy Base [Pot])</item>
         </treasure>
         <ko-a>
@@ -5662,9 +5662,9 @@
         <loot-a/>
         <loot-v>Hero's Clothes (Master Quest) - Link</loot-v>
         <treasure>
-          <item>Heart Container - Toon Link (Fairy Fountain Keep)</item>
-          <item>Fairy Headwear - Bone Hat (Eastern Tree Keep)</item>
-          <item>Fairy Food - Pumpkin (Fairy Fountain Keep [Pot])</item>
+          <item>Heart Container - Toon Link (Fairy Fountain)</item>
+          <item>Fairy Headwear - Bone Hat (Eastern Tree)</item>
+          <item>Fairy Food - Pumpkin (Fairy Fountain [Pot])</item>
         </treasure>
         <ko-a>
           <platform-specific>
@@ -6017,8 +6017,8 @@
         <loot-a>Heart Container - Volga</loot-a>
         <loot-v/>
         <treasure>
-          <item>My Fairy - Light (Southeast Square Keep [Pot])</item>
-          <item>Fairy Food - Light Fruit (Southeast Square Keep [Pot])</item>
+          <item>My Fairy - Light (Southeast Square [Pot])</item>
+          <item>Fairy Food - Light Fruit (Southeast Square [Pot])</item>
         </treasure>
         <ko-a>1200</ko-a>
         <time-a>15 Minutes</time-a>
@@ -6086,7 +6086,7 @@
         </mission>
         <loot-a>Heart Container - Link</loot-a>
         <loot-v/>
-        <treasure>Fairy Top - Skyloft Shawl (Fairy Fountain Keep)</treasure>
+        <treasure>Fairy Top - Skyloft Shawl (Fairy Fountain)</treasure>
         <ko-a>1200</ko-a>
         <time-a>15 Minutes</time-a>
         <damage-a>
@@ -6253,7 +6253,7 @@
         <loot-v/>
         <treasure>
           <item>Heart Container - Volga (N. Entrance Keep)</item>
-          <item>Fairy Bottom - Skyloft Skirt (North Square Keep)</item>
+          <item>Fairy Bottom - Skyloft Skirt (North Square)</item>
         </treasure>
         <ko-a>
           <platform-specific>
@@ -6331,7 +6331,7 @@
         <loot-a/>
         <loot-v>Standard Outfit (Master Quest) - Ruto</loot-v>
         <treasure>
-          <item>Heart Container - Darunia (West Temple Keep)</item>
+          <item>Heart Container - Darunia (West Temple)</item>
           <item>Fairy Bottom - Skyloft Slacks (East Keep)</item>
         </treasure>
         <ko-a>1200</ko-a>
@@ -6440,7 +6440,7 @@
         <loot-v>Standard Outfit (Master Quest) - Volga</loot-v>
         <treasure>
           <item>Heart Container - Volga (North Palace Keep)</item>
-          <item>Piece of Heart - Volga (Southeast Square Keep)</item>
+          <item>Piece of Heart - Volga (Southeast Square)</item>
           <item>Gold Skulltula x2</item>
         </treasure>
         <ko-a>1200</ko-a>
@@ -6747,9 +6747,14 @@
         <loot-a/>
         <loot-v/>
         <treasure/>
-        <ko-a>More Than 1200</ko-a>
-        <time-a>Under 15 Minutes</time-a>
-        <damage-a>Less Than 4000</damage-a>
+        <ko-a>1200</ko-a>
+        <time-a>15 Minutes</time-a>
+        <damage-a>
+          <platform-specific>
+            <platform name="3ds"> 4000 </platform>
+            <platform name="switch"> 149</platform>
+          </platform-specific>
+        </damage-a>
         <difficulty>3</difficulty>
       </tile>
       <tile coordinate="A3">
@@ -6758,8 +6763,13 @@
         <loot-v/>
         <treasure/>
         <ko-a/>
-        <time-a>Under 15 Minutes</time-a>
-        <damage-a>Less Than 4000</damage-a>
+        <time-a>15 Minutes</time-a>
+        <damage-a>
+          <platform-specific>
+            <platform name="3ds"> 4000 </platform>
+            <platform name="switch"> 199</platform>
+          </platform-specific>
+        </damage-a>
         <difficulty>5</difficulty>
       </tile>
       <tile coordinate="A4">
@@ -6767,9 +6777,19 @@
         <loot-a/>
         <loot-v/>
         <treasure/>
-        <ko-a>More Than 1200</ko-a>
-        <time-a>Under 15 Minutes</time-a>
-        <damage-a>Less Than 4000</damage-a>
+        <ko-a>
+          <platform-specific>
+            <platform name="3ds"> 1200 </platform>
+            <platform name="switch"> 1600</platform>
+          </platform-specific>
+        </ko-a>
+        <time-a>15 Minutes</time-a>
+        <damage-a>
+          <platform-specific>
+            <platform name="3ds"> 4000 </platform>
+            <platform name="switch"> 199</platform>
+          </platform-specific>
+        </damage-a>
         <difficulty>5</difficulty>
       </tile>
       <tile coordinate="A5">
@@ -6778,8 +6798,13 @@
         <loot-v>Digging Mitts Item Card</loot-v>
         <treasure/>
         <ko-a/>
-        <time-a>Under 7 Minutes</time-a>
-        <damage-a>Less Than 4000</damage-a>
+        <time-a>7 Minutes</time-a>
+        <damage-a>
+          <platform-specific>
+            <platform name="3ds"> 4000 </platform>
+            <platform name="switch"> 199</platform>
+          </platform-specific>
+        </damage-a>
         <difficulty>5</difficulty>
       </tile>
       <tile coordinate="A6">
@@ -6788,8 +6813,13 @@
         <loot-v/>
         <treasure/>
         <ko-a/>
-        <time-a>Under 7 Minutes</time-a>
-        <damage-a>Less Than 4000</damage-a>
+        <time-a>7 Minutes</time-a>
+        <damage-a>
+          <platform-specific>
+            <platform name="3ds"> 4000 </platform>
+            <platform name="switch"> 199</platform>
+          </platform-specific>
+        </damage-a>
         <difficulty>5</difficulty>
       </tile>
       <tile coordinate="B2">
@@ -6802,8 +6832,13 @@
           <item>Fairy Food - Hylian Pike (South Field Keep [Pot])</item>
         </treasure>
         <ko-a/>
-        <time-a>Under 7 Minutes</time-a>
-        <damage-a>Less Than 4000</damage-a>
+        <time-a>7 Minutes</time-a>
+        <damage-a>
+          <platform-specific>
+            <platform name="3ds"> 4000 </platform>
+            <platform name="switch"> 149</platform>
+          </platform-specific>
+        </damage-a>
         <difficulty>3</difficulty>
       </tile>
       <tile coordinate="B3">
@@ -6816,8 +6851,13 @@
           <item>Fairy Food - Hyrule Bass (West Garden Keep [Pot])</item>
         </treasure>
         <ko-a/>
-        <time-a>Under 7 Minutes</time-a>
-        <damage-a>Less Than 4000</damage-a>
+        <time-a>7 Minutes</time-a>
+        <damage-a>
+          <platform-specific>
+            <platform name="3ds"> 4000 </platform>
+            <platform name="switch"> 199</platform>
+          </platform-specific>
+        </damage-a>
         <difficulty>5</difficulty>
       </tile>
       <tile coordinate="B4">
@@ -6826,8 +6866,13 @@
         <loot-v/>
         <treasure/>
         <ko-a/>
-        <time-a>Under 7 Minutes</time-a>
-        <damage-a>Less Than 4000</damage-a>
+        <time-a>7 Minutes</time-a>
+        <damage-a>
+          <platform-specific>
+            <platform name="3ds"> 4000 </platform>
+            <platform name="switch"> 149</platform>
+          </platform-specific>
+        </damage-a>
         <difficulty>4</difficulty>
       </tile>
       <tile coordinate="B5">
@@ -6839,8 +6884,13 @@
         </loot-v>
         <treasure/>
         <ko-a/>
-        <time-a>Under 7 Minutes</time-a>
-        <damage-a>Less Than 4000</damage-a>
+        <time-a>7 Minutes</time-a>
+        <damage-a>
+          <platform-specific>
+            <platform name="3ds"> 4000 </platform>
+            <platform name="switch"> 199</platform>
+          </platform-specific>
+        </damage-a>
         <difficulty>5</difficulty>
       </tile>
       <tile coordinate="B6">
@@ -6855,9 +6905,19 @@
           <item>Heart Container - Impa (South Garden Keep)</item>
           <item>Gold Skulltula x2</item>
         </treasure>
-        <ko-a>More Than 1200</ko-a>
-        <time-a>Under 15 Minutes</time-a>
-        <damage-a>Less Than 4000</damage-a>
+        <ko-a>
+          <platform-specific>
+            <platform name="3ds"> 1200 </platform>
+            <platform name="switch"> 1600</platform>
+          </platform-specific>
+        </ko-a>
+        <time-a>15 Minutes</time-a>
+        <damage-a>
+          <platform-specific>
+            <platform name="3ds"> 4000 </platform>
+            <platform name="switch"> 199</platform>
+          </platform-specific>
+        </damage-a>
         <difficulty>5</difficulty>
       </tile>
       <tile coordinate="B7">
@@ -6869,8 +6929,13 @@
         </loot-v>
         <treasure/>
         <ko-a/>
-        <time-a>Under 7 Minutes</time-a>
-        <damage-a>Less Than 4000</damage-a>
+        <time-a>7 Minutes</time-a>
+        <damage-a>
+          <platform-specific>
+            <platform name="3ds"> 10000 </platform>
+            <platform name="switch"> 199</platform>
+          </platform-specific>
+        </damage-a>
         <difficulty>6</difficulty>
       </tile>
       <tile coordinate="C1">
@@ -6882,8 +6947,13 @@
         </loot-v>
         <treasure/>
         <ko-a/>
-        <time-a>Under 7 Minutes</time-a>
-        <damage-a>Less Than 4000</damage-a>
+        <time-a>7 Minutes</time-a>
+        <damage-a>
+          <platform-specific>
+            <platform name="3ds"> 4000 </platform>
+            <platform name="switch"> 149</platform>
+          </platform-specific>
+        </damage-a>
         <difficulty>4</difficulty>
       </tile>
       <tile coordinate="C2">
@@ -6891,9 +6961,14 @@
         <loot-a/>
         <loot-v/>
         <treasure/>
-        <ko-a>More Than 1200</ko-a>
-        <time-a>Under 15 Minutes</time-a>
-        <damage-a>Less Than 4000</damage-a>
+        <ko-a>1200</ko-a>
+        <time-a>15 Minutes</time-a>
+        <damage-a>
+          <platform-specific>
+            <platform name="3ds"> 4000 </platform>
+            <platform name="switch"> 149</platform>
+          </platform-specific>
+        </damage-a>
         <difficulty>3</difficulty>
       </tile>
       <tile coordinate="C3">
@@ -6905,8 +6980,13 @@
         <loot-v/>
         <treasure/>
         <ko-a/>
-        <time-a>Under 7 Minutes</time-a>
-        <damage-a>Less Than 4000</damage-a>
+        <time-a>7 Minutes</time-a>
+        <damage-a>
+          <platform-specific>
+            <platform name="3ds"> 4000 </platform>
+            <platform name="switch"> 199</platform>
+          </platform-specific>
+        </damage-a>
         <difficulty>5</difficulty>
       </tile>
       <tile coordinate="C4">
@@ -6918,8 +6998,13 @@
         </loot-v>
         <treasure/>
         <ko-a/>
-        <time-a>Under 7 Minutes</time-a>
-        <damage-a>Less Than 4000</damage-a>
+        <time-a>7 Minutes</time-a>
+        <damage-a>
+          <platform-specific>
+            <platform name="3ds"> 4000 </platform>
+            <platform name="switch"> 149</platform>
+          </platform-specific>
+        </damage-a>
         <difficulty>4</difficulty>
       </tile>
       <tile coordinate="C5">
@@ -6933,9 +7018,19 @@
           <item>Heart Container - Lana (Northwest Keep)</item>
           <item>Fairy Food - Bee Larvae (Northeast Keep [Pot])</item>
         </treasure>
-        <ko-a>More Than 1200</ko-a>
-        <time-a>Under 15 Minutes</time-a>
-        <damage-a>Less Than 4000</damage-a>
+        <ko-a>
+          <platform-specific>
+            <platform name="3ds"> 1200 </platform>
+            <platform name="switch"> 1600</platform>
+          </platform-specific>
+        </ko-a>
+        <time-a>15 Minutes</time-a>
+        <damage-a>
+          <platform-specific>
+            <platform name="3ds"> 4000 </platform>
+            <platform name="switch"> 199</platform>
+          </platform-specific>
+        </damage-a>
         <difficulty>5</difficulty>
       </tile>
       <tile coordinate="C6">
@@ -6947,8 +7042,13 @@
         </loot-v>
         <treasure/>
         <ko-a/>
-        <time-a>Under 7 Minutes</time-a>
-        <damage-a>Less Than 4000</damage-a>
+        <time-a>7 Minutes</time-a>
+        <damage-a>
+          <platform-specific>
+            <platform name="3ds"> 10000 </platform>
+            <platform name="switch"> 199</platform>
+          </platform-specific>
+        </damage-a>
         <difficulty>6</difficulty>
       </tile>
       <tile coordinate="C7">
@@ -6957,11 +7057,21 @@
         <loot-v/>
         <treasure>
           <item>My Fairy - Darkness (South Field Keep [Pot])</item>
-          <item>Fairy Food - Skullfish (Rocky Square Keep [Pot])</item>
+          <item>Fairy Food - Skullfish (Rocky Square [Pot])</item>
         </treasure>
-        <ko-a>More Than 1200</ko-a>
-        <time-a>Under 15 Minutes</time-a>
-        <damage-a>Less Than 4000</damage-a>
+        <ko-a>
+          <platform-specific>
+            <platform name="3ds"> 1200 </platform>
+            <platform name="switch"> 1600</platform>
+          </platform-specific>
+        </ko-a>
+        <time-a>15 Minutes</time-a>
+        <damage-a>
+          <platform-specific>
+            <platform name="3ds"> 10000 </platform>
+            <platform name="switch"> 199</platform>
+          </platform-specific>
+        </damage-a>
         <difficulty>6</difficulty>
       </tile>
       <tile coordinate="C8">
@@ -6970,8 +7080,13 @@
         <loot-v>Tears of Light Item Card</loot-v>
         <treasure/>
         <ko-a/>
-        <time-a>Under 7 Minutes</time-a>
-        <damage-a>Less Than 4000</damage-a>
+        <time-a>7 Minutes</time-a>
+        <damage-a>
+          <platform-specific>
+            <platform name="3ds"> 10000 </platform>
+            <platform name="switch"> 199</platform>
+          </platform-specific>
+        </damage-a>
         <difficulty>6</difficulty>
       </tile>
       <tile coordinate="D1">
@@ -6979,9 +7094,14 @@
         <loot-a>Heart Container - Young Link</loot-a>
         <loot-v>Tears of Light Item Card</loot-v>
         <treasure/>
-        <ko-a>More Than 1200</ko-a>
+        <ko-a>1200</ko-a>
         <time-a/>
-        <damage-a>Less Than 4000</damage-a>
+        <damage-a>
+          <platform-specific>
+            <platform name="3ds"> 4000 </platform>
+            <platform name="switch"> 149</platform>
+          </platform-specific>
+        </damage-a>
         <difficulty>4</difficulty>
       </tile>
       <tile coordinate="D2">
@@ -6992,9 +7112,14 @@
           <item>Heart Container - Volga (Town Center Keep)</item>
           <item>Fairy Food - Skullfish (Northmost Keep [Pot])</item>
         </treasure>
-        <ko-a>More Than 1200</ko-a>
+        <ko-a>1200</ko-a>
         <time-a/>
-        <damage-a>Less Than 4000</damage-a>
+        <damage-a>
+          <platform-specific>
+            <platform name="3ds"> 4000 </platform>
+            <platform name="switch"> 149</platform>
+          </platform-specific>
+        </damage-a>
         <difficulty>4</difficulty>
       </tile>
       <tile coordinate="D3">
@@ -7003,8 +7128,13 @@
         <loot-v/>
         <treasure/>
         <ko-a/>
-        <time-a>Under 7 Minutes</time-a>
-        <damage-a>Less Than 4000</damage-a>
+        <time-a>7 Minutes</time-a>
+        <damage-a>
+          <platform-specific>
+            <platform name="3ds"> 4000 </platform>
+            <platform name="switch"> 149</platform>
+          </platform-specific>
+        </damage-a>
         <difficulty>4</difficulty>
       </tile>
       <tile coordinate="D4">
@@ -7015,9 +7145,19 @@
           <item>Heart Container - Tetra (East Field Keep)</item>
           <item>Fairy Top - Twilight Top (North Field Keep)</item>
         </treasure>
-        <ko-a>More Than 1200</ko-a>
-        <time-a>Under 15 Minutes</time-a>
-        <damage-a>Less Than 10000</damage-a>
+        <ko-a>
+          <platform-specific>
+            <platform name="3ds"> 1200 </platform>
+            <platform name="switch"> 1600</platform>
+          </platform-specific>
+        </ko-a>
+        <time-a>15 Minutes</time-a>
+        <damage-a>
+          <platform-specific>
+            <platform name="3ds"> 10000 </platform>
+            <platform name="switch"> 199</platform>
+          </platform-specific>
+        </damage-a>
         <difficulty>6</difficulty>
       </tile>
       <tile coordinate="D5">
@@ -7029,12 +7169,22 @@
         <loot-v/>
         <treasure>
           <item>Heart Container - Midna (S. Entrance Keep)</item>
-          <item>Fairy Bottom - Butterfly Skirt (South Square Keep)</item>
+          <item>Fairy Bottom - Butterfly Skirt (South Square)</item>
           <item>Fairy Food - Greengill (N. Entrance Keep [Pot])</item>
         </treasure>
-        <ko-a>More Than 1200</ko-a>
-        <time-a>Under 15 Minutes</time-a>
-        <damage-a>Less Than 10000</damage-a>
+        <ko-a>
+          <platform-specific>
+            <platform name="3ds"> 1200 </platform>
+            <platform name="switch"> 1600</platform>
+          </platform-specific>
+        </ko-a>
+        <time-a>15 Minutes</time-a>
+        <damage-a>
+          <platform-specific>
+            <platform name="3ds"> 10000 </platform>
+            <platform name="switch"> 199</platform>
+          </platform-specific>
+        </damage-a>
         <difficulty>6</difficulty>
       </tile>
       <tile coordinate="D6">
@@ -7046,8 +7196,13 @@
         <loot-v>Tears of Light Item Card</loot-v>
         <treasure/>
         <ko-a/>
-        <time-a>Under 7 Minutes</time-a>
-        <damage-a>Less Than 10000</damage-a>
+        <time-a>7 Minutes</time-a>
+        <damage-a>
+          <platform-specific>
+            <platform name="3ds"> 10000 </platform>
+            <platform name="switch"> 199</platform>
+          </platform-specific>
+        </damage-a>
         <difficulty>6</difficulty>
       </tile>
       <tile coordinate="D7">
@@ -7059,8 +7214,13 @@
           <item>Gold Skulltula x2</item>
         </treasure>
         <ko-a/>
-        <time-a>Under 7 Minutes</time-a>
-        <damage-a>Less Than 10000</damage-a>
+        <time-a>7 Minutes</time-a>
+        <damage-a>
+          <platform-specific>
+            <platform name="3ds"> 10000 </platform>
+            <platform name="switch"> 199</platform>
+          </platform-specific>
+        </damage-a>
         <difficulty>6</difficulty>
       </tile>
       <tile coordinate="D8">
@@ -7072,10 +7232,540 @@
           <item>Fairy Decoration - Goron Facepaint (Lower Level East Keep)</item>
           <item>Fairy Food - Reekfish (King's Hall Keep [Pot])</item>
         </treasure>
-        <ko-a>More Than 1200</ko-a>
-        <time-a>Under 15 Minutes</time-a>
-        <damage-a>Less Than 10000</damage-a>
+        <ko-a>
+          <platform-specific>
+            <platform name="3ds"> 1200 </platform>
+            <platform name="switch"> 1600</platform>
+          </platform-specific>
+        </ko-a>
+        <time-a>15 Minutes</time-a>
+        <damage-a>
+          <platform-specific>
+            <platform name="3ds"> 10000 </platform>
+            <platform name="switch"> 199</platform>
+          </platform-specific>
+        </damage-a>
         <difficulty>6</difficulty>
+      </tile>
+      <tile coordinate="E8">
+        <mission>Challenge Battle: Team up and defeat the enemy forces! Lv.3</mission>
+        <loot-a/>
+        <loot-v/>
+        <treasure/>
+        <ko-a/>
+        <time-a>15 Minutes</time-a>
+        <damage-a>
+          <platform-specific>
+            <platform name="3ds"> 4000 </platform>
+            <platform name="switch"> 149</platform>
+          </platform-specific>
+        </damage-a>
+        <difficulty>2</difficulty>
+      </tile>
+      <tile coordinate="F8">
+        <mission>
+          <item>Adventure Battle: Calm dissenters and crush your foe!</item>
+          <item>Twilight Rule: No Item Attacks!</item>
+        </mission>
+        <loot-a/>
+        <loot-v>Standard Outfit (Twilight) - Ruto</loot-v>
+        <treasure>
+          <item>Heart Container - Darunia (W. Boulder Keep)</item>
+          <item>Fairy Food - Great Fairy's Tears (E. Boulder Keep [Pot])</item>
+        </treasure>
+        <ko-a>1200</ko-a>
+        <time-a>15 Minutes</time-a>
+        <damage-a>
+          <platform-specific>
+            <platform name="3ds"> 4000 </platform>
+            <platform name="switch"> 149</platform>
+          </platform-specific>
+        </damage-a>
+        <difficulty>2</difficulty>
+      </tile>
+      <tile coordinate="G5">
+        <mission>
+          <item>Challenge Battle: Learn the key to a balanced attack! Lv.3</item>
+          <item>Twilight Rule: No Focus Spirit!</item>
+        </mission>
+        <loot-a>Heart Container - Impa</loot-a>
+        <loot-v>Compass Item Card</loot-v>
+        <treasure/>
+        <ko-a/>
+        <time-a>15 Minutes</time-a>
+        <damage-a>
+          <platform-specific>
+            <platform name="3ds"> 4000 </platform>
+            <platform name="switch"> 149</platform>
+          </platform-specific>
+        </damage-a>
+        <difficulty>2</difficulty>
+      </tile>
+      <tile coordinate="G6">
+        <mission>Challenge Battle: Protect the Bombchu! Lv.3</mission>
+        <loot-a/>
+        <loot-v>
+          <item>Postman Uniform - Link</item>
+          <item>Bomb Item Card</item>
+        </loot-v>
+        <treasure/>
+        <ko-a/>
+        <time-a>7 Minutes</time-a>
+        <damage-a>
+          <platform-specific>
+            <platform name="3ds"> 4000 </platform>
+            <platform name="switch"> 149</platform>
+          </platform-specific>
+        </damage-a>
+        <difficulty>2</difficulty>
+      </tile>
+      <tile coordinate="G7">
+        <mission>Challenge Battle: Guard the allied keeps with your life! Lv.1</mission>
+        <loot-a>Heart Container - Wizzro</loot-a>
+        <loot-v>
+          <item>Tears of Light Item Card</item>
+          <item>Compass Item Card</item>
+        </loot-v>
+        <treasure/>
+        <ko-a/>
+        <time-a>7 Minutes</time-a>
+        <damage-a>
+          <platform-specific>
+            <platform name="3ds"> 4000 </platform>
+            <platform name="switch"> 149</platform>
+          </platform-specific>
+        </damage-a>
+        <difficulty>2</difficulty>
+      </tile>
+      <tile coordinate="G8">
+        <mission>
+          <item>Adventure Battle: Final battle! Defeat the dragon of the volcano!</item>
+          <item>Twilight Rule: No Special Attacks!</item>
+        </mission>
+        <loot-a>Heart Container - Sheik</loot-a>
+        <loot-v>
+          <item>Tears of Light Item Card</item>
+          <item>Fishing Rod Item Card</item>
+        </loot-v>
+        <treasure>
+          <item>Fairy Decoration - Goron Facepaint (Stock Room)</item>
+          <item>Fairy Food - Hylian Loach (Central Square [Pot])</item>
+        </treasure>
+        <ko-a>1200</ko-a>
+        <time-a>15 Minutes</time-a>
+        <damage-a>
+          <platform-specific>
+            <platform name="3ds"> 4000 </platform>
+            <platform name="switch"> 149</platform>
+          </platform-specific>
+        </damage-a>
+        <difficulty>2</difficulty>
+      </tile>
+      <tile coordinate="H5">
+        <mission>Adventure Battle: Defeat the disorderly forces! Lv.2</mission>
+        <loot-a>Heart Container - Ruto</loot-a>
+        <loot-v>Bomb Item Card</loot-v>
+        <treasure>
+          <item>Fairy Decoration - Butterfly Makeup (Mountain Keep)</item>
+          <item>Fairy Food - Greengill (Castle Keep [Pot])</item>
+        </treasure>
+        <difficulty>2</difficulty>
+      </tile>
+      <tile coordinate="H6">
+        <mission>Challenge Battle: Put an end to the enemy's divisive plan! Lv.2</mission>
+        <loot-a>Heart Container - Ruto</loot-a>
+        <loot-v>Jar Item Card</loot-v>
+        <treasure/>
+        <ko-a/>
+        <time-a>7 Minutes</time-a>
+        <damage-a>
+          <platform-specific>
+            <platform name="3ds"> 4000 </platform>
+            <platform name="switch"> 149</platform>
+          </platform-specific>
+        </damage-a>
+        <difficulty>2</difficulty>
+      </tile>
+      <tile coordinate="H7">
+        <mission>Adventure Battle: Stop the fortifiers and barrier specialists!</mission>
+        <loot-a>Giant Blade Lv.4 - Impa</loot-a>
+        <loot-v>Water Bomb Item Card</loot-v>
+        <treasure>
+          <item>Heart Container - Impa (North Oasis)</item>
+          <item>Fairy Food - Reekfish (Central Keep [Pot])</item>
+        </treasure>
+        <ko-a>1200</ko-a>
+        <time-a>15 Minutes</time-a>
+        <damage-a>
+          <platform-specific>
+            <platform name="3ds"> 4000 </platform>
+            <platform name="switch"> 149</platform>
+          </platform-specific>
+        </damage-a>
+        <difficulty>2</difficulty>
+      </tile>
+      <tile coordinate="H8">
+        <mission>Challenge Battle: Protect the Bombchu! Lv.2</mission>
+        <loot-a>Heart Container - King Daphnes</loot-a>
+        <loot-v>Lantern Item Card</loot-v>
+        <treasure/>
+        <ko-a/>
+        <time-a>7 Minutes</time-a>
+        <damage-a>
+          <platform-specific>
+            <platform name="3ds"> 4000 </platform>
+            <platform name="switch"> 149</platform>
+          </platform-specific>
+        </damage-a>
+        <difficulty>2</difficulty>
+      </tile>
+      <tile coordinate="I5">
+        <mission>Challenge Battle: Rack up your KO count! Lv.2</mission>
+        <loot-a>Heart Container - Twili Midna</loot-a>
+        <loot-v>Fishing Rod Item Card</loot-v>
+        <treasure/>
+        <ko-a>1200</ko-a>
+        <time-a/>
+        <damage-a>
+          <platform-specific>
+            <platform name="3ds"> 4000 </platform>
+            <platform name="switch"> 149</platform>
+          </platform-specific>
+        </damage-a>
+        <difficulty>2</difficulty>
+      </tile>
+      <tile coordinate="I6">
+        <mission>Adventure Battle: Enjoy a leisurely Cucco-outing!</mission>
+        <loot-a>Heart Container - Ghirahim</loot-a>
+        <loot-v>Clawshot Item Card</loot-v>
+        <treasure>Fairy Bottom - Hero's Trousers (W. Mountain Keep)</treasure>
+        <ko-a>1200</ko-a>
+        <time-a>15 Minutes</time-a>
+        <damage-a>
+          <platform-specific>
+            <platform name="3ds"> 4000 </platform>
+            <platform name="switch"> 149</platform>
+          </platform-specific>
+        </damage-a>
+        <difficulty>2</difficulty>
+      </tile>
+      <tile coordinate="I7">
+        <mission>Challenge Battle: Learn the key to a balanced attack! Lv.2</mission>
+        <loot-a>Heart Container - Young Link</loot-a>
+        <loot-v>Ooccoo Item Card</loot-v>
+        <treasure/>
+        <ko-a/>
+        <time-a>7 Minutes</time-a>
+        <damage-a>
+          <platform-specific>
+            <platform name="3ds"> 4000 </platform>
+            <platform name="switch"> 149</platform>
+          </platform-specific>
+        </damage-a>
+        <difficulty>2</difficulty>
+      </tile>
+      <tile coordinate="I8">
+        <mission>Adventure Battle: Defeat the disorderly forces! Lv.3</mission>
+        <loot-a/>
+        <loot-v>Standard Outfit (Twilight) - Darunia</loot-v>
+        <treasure>
+          <item>Heart Container - Darunia (East Goron Keep)</item>
+          <item>Fairy Food - Chu Jelly (E. Boulder Keep [Pot])</item>
+        </treasure>
+        <ko-a>1200</ko-a>
+        <time-a>15 Minutes</time-a>
+        <damage-a>
+          <platform-specific>
+            <platform name="3ds"> 4000 </platform>
+            <platform name="switch"> 149</platform>
+          </platform-specific>
+        </damage-a>
+        <difficulty>2</difficulty>
+      </tile>
+      <tile coordinate="J5">
+        <mission>Challenge Battle: Team up and defeat the enemy forces! Lv.2</mission>
+        <loot-a>Heart Container - Darunia</loot-a>
+        <loot-v>Lantern Item Card</loot-v>
+        <treasure/>
+        <ko-a/>
+        <time-a>15 Minutes</time-a>
+        <damage-a>
+          <platform-specific>
+            <platform name="3ds"> 4000 </platform>
+            <platform name="switch"> 149</platform>
+          </platform-specific>
+        </damage-a>
+        <difficulty>2</difficulty>
+      </tile>
+      <tile coordinate="J6">
+        <mission>
+          <item>Adventure Battle: Destroy the army with boosted morale! Lv.1</item>
+          <item>Twilight Rule: No Item Attacks!</item>
+        </mission>
+        <loot-a/>
+        <loot-v>Standard Outfit (Twilight) - Wizzro</loot-v>
+        <treasure>
+          <item>Heart Container - Wizzro (Stock Room Keep)</item>
+          <item>Gold Skulltula x2</item>
+        </treasure>
+        <ko-a>1200</ko-a>
+        <time-a>15 Minutes</time-a>
+        <damage-a>
+          <platform-specific>
+            <platform name="3ds"> 4000 </platform>
+            <platform name="switch"> 149</platform>
+          </platform-specific>
+        </damage-a>
+        <difficulty>2</difficulty>
+      </tile>
+      <tile coordinate="J7">
+        <mission>Challenge Battle: Put an end to the enemy's divisive plan! Lv.3</mission>
+        <loot-a>Heart Container - Linkle</loot-a>
+        <loot-v>Jar Item Card</loot-v>
+        <treasure/>
+        <ko-a/>
+        <time-a>15 Minutes</time-a>
+        <damage-a>
+          <platform-specific>
+            <platform name="3ds"> 4000 </platform>
+            <platform name="switch"> 149</platform>
+          </platform-specific>
+        </damage-a>
+        <difficulty>2</difficulty>
+      </tile>
+      <tile coordinate="J8">
+        <mission>Challenge Battle: Watch out! All attacks are devastating! Lv.1</mission>
+        <loot-a>Heart Container - Skull Kid</loot-a>
+        <loot-v>Tears of Light Item Card</loot-v>
+        <treasure/>
+        <ko-a/>
+        <time-a>15 Minutes</time-a>
+        <damage-a>
+          <platform-specific>
+            <platform name="3ds"> 4000 </platform>
+            <platform name="switch"> 149</platform>
+          </platform-specific>
+        </damage-a>
+        <difficulty>2</difficulty>
+      </tile>
+      <tile coordinate="K5">
+        <mission>Challenge Battle: Defeat 400 enemies in time!</mission>
+        <loot-a/>
+        <loot-v/>
+        <treasure/>
+        <ko-a/>
+        <time-a>7 Minutes</time-a>
+        <damage-a>
+          <platform-specific>
+            <platform name="3ds"> 4000 </platform>
+            <platform name="switch"> 99</platform>
+          </platform-specific>
+        </damage-a>
+        <difficulty>1</difficulty>
+      </tile>
+      <tile coordinate="K6">
+        <mission>Challenge Battle: Defeat all Giant Bosses in time! Lv.1</mission>
+        <loot-a/>
+        <loot-v/>
+        <treasure/>
+        <ko-a/>
+        <time-a>7 Minutes</time-a>
+        <damage-a>
+          <platform-specific>
+            <platform name="3ds"> 4000 </platform>
+            <platform name="switch"> 149</platform>
+          </platform-specific>
+        </damage-a>
+        <difficulty>2</difficulty>
+      </tile>
+      <tile coordinate="K7">
+        <mission>Challenge Battle: Rack up your KO count! Lv.1</mission>
+        <loot-a>Heart Container - Tetra</loot-a>
+        <loot-v>
+          <item>Tears of Light Item Card</item>
+          <item>Spinner Item Card</item>
+        </loot-v>
+        <treasure/>
+        <ko-a>1200</ko-a>
+        <time-a/>
+        <damage-a>
+          <platform-specific>
+            <platform name="3ds"> 4000 </platform>
+            <platform name="switch"> 149</platform>
+          </platform-specific>
+        </damage-a>
+        <difficulty>2</difficulty>
+      </tile>
+      <tile coordinate="L5">
+        <mission>
+          <item>Adventure Battle: Recruit more allies and overwhelm the enemy!</item>
+          <item>Twilight Rule: No Special Attacks!</item>
+        </mission>
+        <loot-a/>
+        <loot-v>Standard Outfit (Twilight) - Lana</loot-v>
+        <treasure>
+          <item>Heart Container - Lana (East Temple Keep)</item>
+          <item>Gold Skulltula x2</item>
+        </treasure>
+        <ko-a>
+          <platform-specific>
+            <platform name="3ds"> 1200 </platform>
+            <platform name="switch"> 1000</platform>
+          </platform-specific>
+        </ko-a>
+        <time-a>15 Minutes</time-a>
+        <damage-a>
+          <platform-specific>
+            <platform name="3ds"> 4000 </platform>
+            <platform name="switch"> 99</platform>
+          </platform-specific>
+        </damage-a>
+        <difficulty>1</difficulty>
+      </tile>
+      <tile coordinate="L6">
+        <mission>Adventure Battle: Destroy enemies and traitors alike!</mission>
+        <loot-a/>
+        <loot-v>Standard Outfit (Twilight) - Sheik</loot-v>
+        <treasure>
+          <item>Heart Container - Sheik (Eastern Tree)</item>
+          <item>Fairy Food - Ordon Goat Cheese (Eastern Tree [Pot])</item>
+        </treasure>
+        <ko-a>1200</ko-a>
+        <time-a>15 Minutes</time-a>
+        <damage-a>
+          <platform-specific>
+            <platform name="3ds"> 4000 </platform>
+            <platform name="switch"> 149</platform>
+          </platform-specific>
+        </damage-a>
+        <difficulty>2</difficulty>
+      </tile>
+      <tile coordinate="M4">
+        <mission>Challenge Battle: Put an end to the enemy's divisive plan! Lv.1</mission>
+        <loot-a>Heart Container - Volga</loot-a>
+        <loot-v>Bomb Item Card</loot-v>
+        <treasure/>
+        <ko-a/>
+        <time-a>15 Minutes</time-a>
+        <damage-a>
+          <platform-specific>
+            <platform name="3ds"> 4000 </platform>
+            <platform name="switch"> 99</platform>
+          </platform-specific>
+        </damage-a>
+        <difficulty>1</difficulty>
+      </tile>
+      <tile coordinate="M5">
+        <mission>Adventure Battle: Final battle! Defeat the beast of the jungle!</mission>
+        <loot-a/>
+        <loot-v>Tears of Light Item Card</loot-v>
+        <treasure>
+          <item>Heart Container - Fi (North Square)</item>
+          <item>Fairy Decoration - Goron Facepaint (Southeast Tree)</item>
+          <item>Fairy Food - Ordon Catfish (Eastern Tree [Pot])</item>
+        </treasure>
+        <ko-a>
+          <platform-specific>
+            <platform name="3ds"> 1200 </platform>
+            <platform name="switch"> 1000</platform>
+          </platform-specific>
+        </ko-a>
+        <time-a>15 Minutes</time-a>
+        <damage-a>
+          <platform-specific>
+            <platform name="3ds"> 4000 </platform>
+            <platform name="switch"> 99</platform>
+          </platform-specific>
+        </damage-a>
+        <difficulty>1</difficulty>
+      </tile>
+      <tile coordinate="M6">
+        <mission>Adventure Battle: Defeat the disorderly forces! Lv.1</mission>
+        <loot-a/>
+        <loot-v/>
+        <treasure/>
+        <ko-a>
+          <platform-specific>
+            <platform name="3ds"> 1200 </platform>
+            <platform name="switch"> 1000</platform>
+          </platform-specific>
+        </ko-a>
+        <time-a>15 Minutes</time-a>
+        <damage-a>
+          <platform-specific>
+            <platform name="3ds"> 4000 </platform>
+            <platform name="switch"> 99</platform>
+          </platform-specific>
+        </damage-a>
+        <difficulty>1</difficulty>
+      </tile>
+      <tile coordinate="N4">
+        <mission>Challenge Battle: Team up and defeat the enemy forces! Lv.1</mission>
+        <loot-a/>
+        <loot-v>
+          <item>Ilia's Clothes - Zelda</item>
+          <item>Jar Item Card</item>
+        </loot-v>
+        <treasure/>
+        <ko-a/>
+        <time-a>15 Minutes</time-a>
+        <damage-a>
+          <platform-specific>
+            <platform name="3ds"> 4000 </platform>
+            <platform name="switch"> 99</platform>
+          </platform-specific>
+        </damage-a>
+        <difficulty>1</difficulty>
+      </tile>
+      <tile coordinate="N5">
+        <mission>Challenge Battle: Protect the Bombchu!</mission>
+        <loot-a>Heart Container - Lana</loot-a>
+        <loot-v>Compass Item Card</loot-v>
+        <treasure/>
+        <ko-a/>
+        <time-a>7 Minutes</time-a>
+        <damage-a>
+          <platform-specific>
+            <platform name="3ds"> 4000 </platform>
+            <platform name="switch"> 99</platform>
+          </platform-specific>
+        </damage-a>
+        <difficulty>1</difficulty>
+      </tile>
+      <tile coordinate="N6">
+        <mission>Adventure Battle: Show no fear to the enemies of Twilight!</mission>
+        <loot-a>Heart Container - Midna</loot-a>
+        <loot-v/>
+        <treasure>Fairy Top - Hero's Clothes (South Field Keep)</treasure>
+        <ko-a>
+          <platform-specific>
+            <platform name="3ds"> 1200 </platform>
+            <platform name="switch"> 1000</platform>
+          </platform-specific>
+        </ko-a>
+        <time-a>15 Minutes</time-a>
+        <damage-a>
+          <platform-specific>
+            <platform name="3ds"> 4000 </platform>
+            <platform name="switch"> 99</platform>
+          </platform-specific>
+        </damage-a>
+        <difficulty>0</difficulty>
+      </tile>
+      <tile coordinate="O6">
+        <mission>Challenge Battle: Learn the key to a balanced attack! Lv.1</mission>
+        <loot-a>Heart Container - Toon Link</loot-a>
+        <loot-v/>
+        <treasure/>
+        <ko-a/>
+        <time-a>7 Minutes</time-a>
+        <damage-a>
+          <platform-specific>
+            <platform name="3ds"> 4000 </platform>
+            <platform name="switch"> 99</platform>
+          </platform-specific>
+        </damage-a>
+        <difficulty>0</difficulty>
       </tile>
     </tiles>
   </map>
@@ -7127,7 +7817,7 @@
         </loot-v>
         <treasure>
           <item>Heart Container - Ganondorf (Town Center Keep)</item>
-          <item>Fairy Food - Water Fruit (Fairy Fountain Keep [Pot])</item>
+          <item>Fairy Food - Water Fruit (Fairy Fountain [Pot])</item>
         </treasure>
         <ko-a>
           <platform-specific>
@@ -7373,8 +8063,8 @@
         <loot-a>Heart Container - Linkle</loot-a>
         <loot-v/>
         <treasure>
-          <item>Fairy Top - Skull Dress (Eastern Tree Keep)</item>
-          <item>Fairy Food - Elixir Soup (Western Tree Keep [Pot])</item>
+          <item>Fairy Top - Skull Dress (Eastern Tree)</item>
+          <item>Fairy Food - Elixir Soup (Western Tree [Pot])</item>
         </treasure>
         <ko-a>
           <platform-specific>
@@ -7429,7 +8119,7 @@
         <loot-v>Hyoi Pear Item Card</loot-v>
         <treasure>
           <item>Fairy Decoration - Insect Aura (West Ruins Keep)</item>
-          <item>Fairy Food - Light Fruit (West Temple Keep [Pot])</item>
+          <item>Fairy Food - Light Fruit (West Temple [Pot])</item>
         </treasure>
         <ko-a>
           <platform-specific>
@@ -7475,7 +8165,7 @@
           <item>Deku Leaf Item Card</item>
         </loot-v>
         <treasure>
-          <item>Heart Container - Wizzro (North Square Keep)</item>
+          <item>Heart Container - Wizzro (North Square)</item>
           <item>Gold Skulltula x2</item>
         </treasure>
         <ko-a>
@@ -7519,8 +8209,8 @@
         <loot-a>Heart Container - Zant</loot-a>
         <loot-v>Salvage Arm Item Card</loot-v>
         <treasure>
-          <item>Piece of Heart - Medli (South Square Keep)</item>
-          <item>Fairy Food - Carrot (West Square Keep [Pot])</item>
+          <item>Piece of Heart - Medli (South Square)</item>
+          <item>Fairy Food - Carrot (West Square [Pot])</item>
         </treasure>
         <ko-a>1200</ko-a>
         <time-a>15 Minutes</time-a>
@@ -7612,8 +8302,8 @@
         <loot-a>Rito Harp Lv.2 - Medli</loot-a>
         <loot-v>Deku Leaf Item Card</loot-v>
         <treasure>
-          <item>Heart Container - Medli (Fairy Fountain Keep)</item>
-          <item>Fairy Food - All-Purpose Bait (Fairy Fountain Keep [Pot])</item>
+          <item>Heart Container - Medli (Fairy Fountain)</item>
+          <item>Fairy Food - All-Purpose Bait (Fairy Fountain [Pot])</item>
         </treasure>
         <ko-a>
           <platform-specific>
@@ -8314,7 +9004,7 @@
         <loot-v>Hookshot Item Card</loot-v>
         <treasure>
           <item>Piece of Heart - Medli (Central Keep)</item>
-          <item>Fairy Headwear - Usurper Crown (North Square Keep)</item>
+          <item>Fairy Headwear - Usurper Crown (North Square)</item>
           <item>Fairy Food - Stamina Fruit (S. Entrance Keep [Pot])</item>
         </treasure>
         <ko-a>
@@ -8374,7 +9064,7 @@
         <treasure>
           <item>Heart Container - Linkle (W. Rockface Keep)</item>
           <item>Fairy Top - Usurper Robe (Castle Keep)</item>
-          <item>Fairy Food - Mushroom Spores (Fairy Fountain Keep [Pot])</item>
+          <item>Fairy Food - Mushroom Spores (Fairy Fountain [Pot])</item>
         </treasure>
         <ko-a>
           <platform-specific>
@@ -8676,7 +9366,7 @@
         <treasure>
           <item>Heart Container - Medli (East Field Keep)</item>
           <item>Fairy Decoration - Korok Aura (W. Rockface Keep)</item>
-          <item>Fairy Food - Life Tree Fruit (Fairy Fountain Keep [Pot])</item>
+          <item>Fairy Food - Life Tree Fruit (Fairy Fountain [Pot])</item>
         </treasure>
         <ko-a>
           <platform-specific>
@@ -8781,7 +9471,7 @@
         <loot-v>Deku Leak Item Card</loot-v>
         <treasure>
           <item>Fairy Bottom - Hero's Trousers (Sacred Pedestal Keep)</item>
-          <item>Fairy Food - Water Fruit (South Square Keep [Pot])</item>
+          <item>Fairy Food - Water Fruit (South Square [Pot])</item>
         </treasure>
         <ko-a>
           <platform-specific>
@@ -8978,8 +9668,8 @@
         <loot-a>Heart Container - Sheik</loot-a>
         <loot-v>Sea Chart Item Card</loot-v>
         <treasure>
-          <item>Piece of Heart - Medli (Central Square Keep)</item>
-          <item>Fairy Top - Rancher Poncho (West Square Keep)</item>
+          <item>Piece of Heart - Medli (Central Square)</item>
+          <item>Fairy Top - Rancher Poncho (West Square)</item>
           <item>Fairy Food - Carrot (North Palace Keep [Pot])</item>
         </treasure>
         <ko-a>1200</ko-a>
@@ -9152,6 +9842,12 @@
     </tiles>
   </map>
   <map name="Koholint Island">
+    <tiles/>
+  </map>
+  <map name="Grand Travels">
+    <tiles/>
+  </map>
+  <map name="Lorule">
     <tiles/>
   </map>
 </maps>
