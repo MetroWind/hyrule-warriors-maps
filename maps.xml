@@ -6827,12 +6827,12 @@
         <loot-a/>
         <loot-v>Standard Outfit (Twilight) - Midna</loot-v>
         <treasure>
-          <item>Heart Container - Midna (Enemy Base)</item>
+          <item>Heart Container - Midna (North Field Keep)</item>
           <item>Fairy Headwear - Butterfly Headband (East Field Keep)</item>
           <item>Fairy Food - Hylian Pike (South Field Keep [Pot])</item>
         </treasure>
-        <ko-a/>
-        <time-a>7 Minutes</time-a>
+        <ko-a>1200</ko-a>
+        <time-a>15 Minutes</time-a>
         <damage-a>
           <platform-specific>
             <platform name="3ds"> 4000 </platform>
@@ -7283,6 +7283,42 @@
         </damage-a>
         <difficulty>2</difficulty>
       </tile>
+      <tile coordinate="G3">
+        <mission>Challenge Battle: Put an end to the enemy's divisive plan! Lv.4</mission>
+        <loot-a>Heart Container - Tetra</loot-a>
+        <loot-v>Ooccoo Item Card</loot-v>
+        <treasure/>
+        <ko-a/>
+        <time-a>7 Minutes</time-a>
+        <damage-a>
+          <platform-specific>
+            <platform name="3ds"> 4000 </platform>
+            <platform name="switch"> 149</platform>
+          </platform-specific>
+        </damage-a>
+        <difficulty>3</difficulty>
+      </tile>
+      <tile coordinate="G4">
+        <mission>Adventure Battle: Final battle! Defeat the dragon of the lake!</mission>
+        <loot-a>Heart Container - Agitha</loot-a>
+        <loot-v>
+          <item>Tears of Light Item Card</item>
+          <item>Bomb Item Card</item>
+        </loot-v>
+        <treasure>
+          <item>Fairy Top - Butterfly Blouse (Bridge Keep)</item>
+          <item>Fairy Food - Hylian Loach (Rocky Square [Pot])</item>
+        </treasure>
+        <ko-a>1200</ko-a>
+        <time-a>15 Minutes</time-a>
+        <damage-a>
+          <platform-specific>
+            <platform name="3ds"> 4000 </platform>
+            <platform name="switch"> 149</platform>
+          </platform-specific>
+        </damage-a>
+        <difficulty>3</difficulty>
+      </tile>
       <tile coordinate="G5">
         <mission>
           <item>Challenge Battle: Learn the key to a balanced attack! Lv.3</item>
@@ -7361,6 +7397,54 @@
         </damage-a>
         <difficulty>2</difficulty>
       </tile>
+      <tile coordinate="H1">
+        <mission>Adventure Battle: Strengthen your army and defeat the enemy!</mission>
+        <loot-a/>
+        <loot-v/>
+        <treasure/>
+        <ko-a>1200</ko-a>
+        <time-a>15 Minutes</time-a>
+        <damage-a>
+          <platform-specific>
+            <platform name="3ds"> 4000 </platform>
+            <platform name="switch"> 149</platform>
+          </platform-specific>
+        </damage-a>
+        <difficulty>3</difficulty>
+      </tile>
+      <tile coordinate="H2">
+        <mission>Challenge Battle: Protect the Bombchu! Lv.4</mission>
+        <loot-a/>
+        <loot-v/>
+        <treasure/>
+        <ko-a/>
+        <time-a>7 Minutes</time-a>
+        <damage-a>
+          <platform-specific>
+            <platform name="3ds"> 4000 </platform>
+            <platform name="switch"> 149</platform>
+          </platform-specific>
+        </damage-a>
+        <difficulty>3</difficulty>
+      </tile>
+      <tile coordinate="H3">
+        <mission>Adventure Battle: Defeat the disorderly forces! Lv.4</mission>
+        <loot-a/>
+        <loot-v>Standard Outfit (Twilight) - Zant</loot-v>
+        <treasure>
+          <item>Heart Container - Zant</item>
+          <item>Gold Skulltula x2</item>
+        </treasure>
+        <ko-a>1200</ko-a>
+        <time-a>15 Minutes</time-a>
+        <damage-a>
+          <platform-specific>
+            <platform name="3ds"> 4000 </platform>
+            <platform name="switch"> 149</platform>
+          </platform-specific>
+        </damage-a>
+        <difficulty>3</difficulty>
+      </tile>
       <tile coordinate="H5">
         <mission>Adventure Battle: Defeat the disorderly forces! Lv.2</mission>
         <loot-a>Heart Container - Ruto</loot-a>
@@ -7369,6 +7453,14 @@
           <item>Fairy Decoration - Butterfly Makeup (Mountain Keep)</item>
           <item>Fairy Food - Greengill (Castle Keep [Pot])</item>
         </treasure>
+        <ko-a>1200</ko-a>
+        <time-a>15 Minutes</time-a>
+        <damage-a>
+          <platform-specific>
+            <platform name="3ds"> 4000 </platform>
+            <platform name="switch"> 149</platform>
+          </platform-specific>
+        </damage-a>
         <difficulty>2</difficulty>
       </tile>
       <tile coordinate="H6">
@@ -7418,6 +7510,57 @@
           </platform-specific>
         </damage-a>
         <difficulty>2</difficulty>
+      </tile>
+      <tile coordinate="I1">
+        <mission>Adventure Battle: Final battle! Defeat the desert dragon!</mission>
+        <loot-a>Book of Sorcery Lv.4 - Lana</loot-a>
+        <loot-v>
+          <item>Tears of Light Item Card</item>
+          <item>Lantern Item Card</item>
+        </loot-v>
+        <treasure>Gold Skulltula x2</treasure>
+        <ko-a>1200</ko-a>
+        <time-a>15 Minutes</time-a>
+        <damage-a>
+          <platform-specific>
+            <platform name="3ds"> 4000 </platform>
+            <platform name="switch"> 149</platform>
+          </platform-specific>
+        </damage-a>
+        <difficulty>3</difficulty>
+      </tile>
+      <tile coordinate="I2">
+        <mission>Challenge Battle: Learn the key to a balanced attack! Lv.4</mission>
+        <loot-a>Heart Container - Linkle</loot-a>
+        <loot-v>Ooccoo Item Card</loot-v>
+        <treasure/>
+        <ko-a/>
+        <time-a>15 Minutes</time-a>
+        <damage-a>
+          <platform-specific>
+            <platform name="3ds"> 4000 </platform>
+            <platform name="switch"> 149</platform>
+          </platform-specific>
+        </damage-a>
+        <difficulty>3</difficulty>
+      </tile>
+      <tile coordinate="I3">
+        <mission>Challenge Battle: Team up and defeat the enemy forces! Lv.4</mission>
+        <loot-a>Heart Container - Young Link</loot-a>
+        <loot-v>
+          <item>Tears of Light Item Card</item>
+          <item>Jar Item Card</item>
+        </loot-v>
+        <treasure/>
+        <ko-a/>
+        <time-a>15 Minutes</time-a>
+        <damage-a>
+          <platform-specific>
+            <platform name="3ds"> 4000 </platform>
+            <platform name="switch"> 149</platform>
+          </platform-specific>
+        </damage-a>
+        <difficulty>3</difficulty>
       </tile>
       <tile coordinate="I5">
         <mission>Challenge Battle: Rack up your KO count! Lv.2</mission>
@@ -7481,6 +7624,63 @@
           </platform-specific>
         </damage-a>
         <difficulty>2</difficulty>
+      </tile>
+      <tile coordinate="J1">
+        <mission>Challenge Battle: Protect the Bombchu! Lv.5</mission>
+        <loot-a/>
+        <loot-v>
+          <item>Standard Outfit (Twilight) - Agitha</item>
+          <item>Spinner Item Card</item>
+        </loot-v>
+        <treasure/>
+        <ko-a/>
+        <time-a>7 Minutes</time-a>
+        <damage-a>
+          <platform-specific>
+            <platform name="3ds"> 4000 </platform>
+            <platform name="switch"> 149</platform>
+          </platform-specific>
+        </damage-a>
+        <difficulty>3</difficulty>
+      </tile>
+      <tile coordinate="J2">
+        <mission>
+          <item>Challenge Battle: Put an end to the enemy's divisive plan! Lv.5</item>
+          <item>Twilight Rule: No Special Attacks!</item>
+        </mission>
+        <loot-a>Heart Container - Tingle</loot-a>
+        <loot-v>Digging Mitts Item Card</loot-v>
+        <treasure/>
+        <ko-a/>
+        <time-a>7 Minutes</time-a>
+        <damage-a>
+          <platform-specific>
+            <platform name="3ds"> 4000 </platform>
+            <platform name="switch"> 149</platform>
+          </platform-specific>
+        </damage-a>
+        <difficulty>3</difficulty>
+      </tile>
+      <tile coordinate="J3">
+        <mission>
+          <item>Adventure Battle: Behold the power of teamwork!</item>
+          <item>Twilight Rule: No Focus Spirit!</item>
+        </mission>
+        <loot-a>Heart Container - Agitha</loot-a>
+        <loot-v/>
+        <treasure>
+          <item>Fairy Top - Hero's Clothes (Central Square)</item>
+          <item>Fairy Food - Chu Jelly (Central Square [Pot])</item>
+        </treasure>
+        <ko-a>1200</ko-a>
+        <time-a>15 Minutes</time-a>
+        <damage-a>
+          <platform-specific>
+            <platform name="3ds"> 4000 </platform>
+            <platform name="switch"> 149</platform>
+          </platform-specific>
+        </damage-a>
+        <difficulty>3</difficulty>
       </tile>
       <tile coordinate="J5">
         <mission>Challenge Battle: Team up and defeat the enemy forces! Lv.2</mission>
@@ -7547,6 +7747,28 @@
           </platform-specific>
         </damage-a>
         <difficulty>2</difficulty>
+      </tile>
+      <tile coordinate="K1">
+        <mission>
+          <item>Adventure Battle: Look for a solution!</item>
+          <item>Twilight Rule: No Item Attacks!</item>
+        </mission>
+        <loot-a>Parasol Lv.4 - Agitha</loot-a>
+        <loot-v/>
+        <treasure>
+          <item>Heart Container - Agitha (West Temple)</item>
+          <item>Fairy Bottom - Butterfly Skirt (East Keep)</item>
+          <item>Fairy Food - Great Fairy's Tears (Eastern Room [Pot])</item>
+        </treasure>
+        <ko-a>1200</ko-a>
+        <time-a>15 Minutes</time-a>
+        <damage-a>
+          <platform-specific>
+            <platform name="3ds"> 4000 </platform>
+            <platform name="switch"> 149</platform>
+          </platform-specific>
+        </damage-a>
+        <difficulty>3</difficulty>
       </tile>
       <tile coordinate="K5">
         <mission>Challenge Battle: Defeat 400 enemies in time!</mission>
@@ -9842,12 +10064,6 @@
     </tiles>
   </map>
   <map name="Koholint Island">
-    <tiles/>
-  </map>
-  <map name="Grand Travels">
-    <tiles/>
-  </map>
-  <map name="Lorule">
     <tiles/>
   </map>
 </maps>
