@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8; -*-
 
+import typing
 import lxml.etree as Etree
 
 def safeInt(x):
@@ -38,7 +39,7 @@ class TileInfo(object):
 
     @property
     def CoordNum(self):
-        """(Column, row) in number."""
+        """(Column, row) in number (starting from 1)."""
         return (ord(self.Coord[0]) - ord('A') + 1,
                 int(self.Coord[1]))
 
@@ -149,25 +150,19 @@ class TileInfo(object):
 class MapInfo(object):
     def __init__(self):
         self.Tiles = {}
-        self._MaxCorner = None
         self.Title = ""
+        self.Cols = 0
+        self.Rows = 0
 
-    def addTile(self, tile):
+    def addTile(self, tile: TileInfo):
         self.Tiles[tile.Coord] = tile
-        if self._MaxCorner is None:
-            self._MaxCorner = tile.Coord
-        else:
-            if tile.Coord > self._MaxCorner:
-                self._MaxCorner = tile.Coord
+
+        if tile.CoordNum[0] > self.Cols:
+            self.Cols = tile.CoordNum[0]
+        if tile.CoordNum[1] > self.Rows:
+            self.Rows = tile.CoordNum[1]
+
         return self
-
-    @property
-    def Cols(self):
-        return ord(self._MaxCorner[0]) - ord('A') + 1
-
-    @property
-    def Rows(self):
-        return int(self._MaxCorner[1])
 
     def genSvg(self):
         CellWidth = 30
