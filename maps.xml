@@ -12133,6 +12133,110 @@
   </map>
   <map name="Koholint Island">
     <tiles>
+      <tile coordinate="A3">
+        <mission>Challenge Battle: Defeat the shuffling forces! Lv.5</mission>
+        <loot-a/>
+        <loot-v>
+          <item>Standard Outfit (Koholint) - Toon Link</item>
+          <item>Power Bracelet Item Card</item>
+        </loot-v>
+        <treasure/>
+        <ko-a/>
+        <time-a>15 Minutes</time-a>
+        <damage-a>
+          <platform-specific>
+            <platform name="3ds"> 4000 </platform>
+            <platform name="switch"> 149</platform>
+          </platform-specific>
+        </damage-a>
+        <difficulty>2</difficulty>
+      </tile>
+      <tile coordinate="A4">
+        <mission>Adventure Battle: Take on the warriors of Majora's Mask! Lv.1</mission>
+        <loot-a>Harp Lv.4+ - Sheik</loot-a>
+        <loot-v/>
+        <treasure>
+          <item>Heart Container - Sheik (East Goron Keep)</item>
+          <item>Fairy Decoration - Writer's Glasses (West Goron Keep)</item>
+          <item>Fairy Food - Odd Mushroom (East Goron Keep [Pot])</item>
+        </treasure>
+        <ko-a>1200</ko-a>
+        <time-a>15 Minutes</time-a>
+        <damage-a>
+          <platform-specific>
+            <platform name="3ds"> 4000 </platform>
+            <platform name="switch"> 149</platform>
+          </platform-specific>
+        </damage-a>
+        <difficulty>2</difficulty>
+      </tile>
+      <tile coordinate="A5">
+        <mission>Adventure Battle: Defeat the warriors of time! Lv.1</mission>
+        <loot-a>Heart Container - Skull Kid</loot-a>
+        <loot-v>Grandpa Ulrira Item Card</loot-v>
+        <treasure>Gold Skulltula x2</treasure>
+        <ko-a>1200</ko-a>
+        <time-a>15 Minutes</time-a>
+        <damage-a>
+          <platform-specific>
+            <platform name="3ds"> 4000 </platform>
+            <platform name="switch"> 149</platform>
+          </platform-specific>
+        </damage-a>
+        <difficulty>2</difficulty>
+      </tile>
+      <tile coordinate="A6">
+        <mission>Challenge Battle: Defeat the shuffling forces! Lv.2</mission>
+        <loot-a/>
+        <loot-v>
+          <item>Standard Outift (Koholint) - Zant</item>
+          <item>Compass Item Card</item>
+        </loot-v>
+        <treasure/>
+        <ko-a/>
+        <time-a>15 Minutes</time-a>
+        <damage-a>
+          <platform-specific>
+            <platform name="3ds"> 4000 </platform>
+            <platform name="switch"> 99</platform>
+          </platform-specific>
+        </damage-a>
+        <difficulty>1</difficulty>
+      </tile>
+      <tile coordinate="B3">
+        <mission>Challenge Battle: Defeat the shuffling forces! Lv.3</mission>
+        <loot-a>Heart Container - Young Link</loot-a>
+        <loot-v>Grandpa Ulrira Item Card</loot-v>
+        <treasure/>
+        <ko-a/>
+        <time-a>15 Minutes</time-a>
+        <damage-a>
+          <platform-specific>
+            <platform name="3ds"> 4000 </platform>
+            <platform name="switch"> 149</platform>
+          </platform-specific>
+        </damage-a>
+        <difficulty>2</difficulty>
+      </tile>
+      <tile coordinate="B4">
+        <mission>Challenge Battle: Defeat 500 enemies in time!</mission>
+        <loot-a>
+          <platform-specific>
+            <platform name="switch"> Boots Lv.2 - Linkle</platform>
+          </platform-specific>
+        </loot-a>
+        <loot-v>Compass Item Card</loot-v>
+        <treasure/>
+        <ko-a/>
+        <time-a>15 Minutes</time-a>
+        <damage-a>
+          <platform-specific>
+            <platform name="3ds"> 4000 </platform>
+            <platform name="switch"> 149</platform>
+          </platform-specific>
+        </damage-a>
+        <difficulty>2</difficulty>
+      </tile>
       <tile coordinate="B5">
         <mission>Challenge Battle: Defeat the shuffling forces! Lv.1</mission>
         <loot-a>Heart Container - Marin</loot-a>
@@ -12162,6 +12266,36 @@
           </platform-specific>
         </damage-a>
         <difficulty>0</difficulty>
+      </tile>
+      <tile coordinate="C3">
+        <mission>Challenge Battle: Team up and defeat the enemy forces! Lv.2</mission>
+        <loot-a/>
+        <loot-v/>
+        <treasure/>
+        <ko-a/>
+        <time-a>15 Minutes</time-a>
+        <damage-a>
+          <platform-specific>
+            <platform name="3ds"> 4000 </platform>
+            <platform name="switch"> 99</platform>
+          </platform-specific>
+        </damage-a>
+        <difficulty>1</difficulty>
+      </tile>
+      <tile coordinate="C4">
+        <mission>Challenge Battle: Defeat 500 enemies in time!</mission>
+        <loot-a>Heart Container - Tingle</loot-a>
+        <loot-v>Grandpa Ulrira Item Card</loot-v>
+        <treasure/>
+        <ko-a/>
+        <time-a>15 Minutes</time-a>
+        <damage-a>
+          <platform-specific>
+            <platform name="3ds"> 4000 </platform>
+            <platform name="switch"> 149</platform>
+          </platform-specific>
+        </damage-a>
+        <difficulty>2</difficulty>
       </tile>
       <tile coordinate="C5">
         <mission>Challenge Battle: Stop the enemy merger! Lv.1</mission>
@@ -12200,6 +12334,207 @@
           </platform-specific>
         </damage-a>
         <difficulty>0</difficulty>
+      </tile>
+      <tile coordinate="D3">
+        <mission>Adventure Battle: Final battle! Defeat the beast of Bottle Grotto!</mission>
+        <loot-a>Bell Lv.2 - Marin</loot-a>
+        <loot-v>Conch Horn Item Card</loot-v>
+        <treasure>
+          <item>Heart Container - Marin (Mountain Keep)</item>
+          <item>Fairy Headwear - Bow-Wow Headband (South Field Keep)</item>
+          <item>Fairy Food - Mystery Seeds (South Field Keep [Pot])</item>
+        </treasure>
+        <ko-a>
+          <platform-specific>
+            <platform name="3ds"> 1200 </platform>
+            <platform name="switch"> 1000</platform>
+          </platform-specific>
+        </ko-a>
+        <time-a>15 Minutes</time-a>
+        <damage-a>
+          <platform-specific>
+            <platform name="3ds"> 4000 </platform>
+            <platform name="switch"> 99</platform>
+          </platform-specific>
+        </damage-a>
+        <difficulty>1</difficulty>
+      </tile>
+      <tile coordinate="D4">
+        <mission>Challenge Battle: Fight through the legendary warrior quiz!</mission>
+        <loot-a>Heart Container - Lana</loot-a>
+        <loot-v>Grandpa Ulrira Item Card</loot-v>
+        <treasure/>
+        <ko-a>3</ko-a>
+        <time-a>15 Minutes</time-a>
+        <damage-a>
+          <platform-specific>
+            <platform name="3ds"> 4000 </platform>
+            <platform name="switch"> 99</platform>
+          </platform-specific>
+        </damage-a>
+        <difficulty>1</difficulty>
+      </tile>
+      <tile coordinate="D5">
+        <mission>Challenge Battle: Stop the enemy merger! Lv.2</mission>
+        <loot-a>Heart Container - Midna</loot-a>
+        <loot-v>Compass Item Card</loot-v>
+        <treasure/>
+        <ko-a/>
+        <time-a>15 Minutes</time-a>
+        <damage-a>
+          <platform-specific>
+            <platform name="3ds"> 4000 </platform>
+            <platform name="switch"> 99</platform>
+          </platform-specific>
+        </damage-a>
+        <difficulty>1</difficulty>
+      </tile>
+      <tile coordinate="D6">
+        <mission>Challenge Battle: Team up and defeat the enemy forces! Lv.1</mission>
+        <loot-a/>
+        <loot-v/>
+        <treasure/>
+        <ko-a/>
+        <time-a>15 Minutes</time-a>
+        <damage-a>
+          <platform-specific>
+            <platform name="3ds"> 4000 </platform>
+            <platform name="switch"> 99</platform>
+          </platform-specific>
+        </damage-a>
+        <difficulty>1</difficulty>
+      </tile>
+      <tile coordinate="E3">
+        <mission>Challenge Battle: Defeat all Giant Bosses in time! Lv.2</mission>
+        <loot-a/>
+        <loot-v/>
+        <treasure/>
+        <ko-a/>
+        <time-a>7 Minutes</time-a>
+        <damage-a>
+          <platform-specific>
+            <platform name="3ds"> 4000 </platform>
+            <platform name="switch"> 149</platform>
+          </platform-specific>
+        </damage-a>
+        <difficulty>2</difficulty>
+      </tile>
+      <tile coordinate="E4">
+        <mission>Adventure Battle: Final battle! Defeat the lakeside beast!</mission>
+        <loot-a>Heart Container - Marin</loot-a>
+        <loot-v>Sea Lily Bell Item Card</loot-v>
+        <treasure>
+          <item>Fairy Headwear - Pretty Ribbon (Exit Square)</item>
+          <item>Fairy Food - Hot Spring Water (West Square [Pot])</item>
+        </treasure>
+        <ko-a>1200</ko-a>
+        <time-a>15 Minutes</time-a>
+        <damage-a>
+          <platform-specific>
+            <platform name="3ds"> 4000 </platform>
+            <platform name="switch"> 149</platform>
+          </platform-specific>
+        </damage-a>
+        <difficulty>2</difficulty>
+      </tile>
+      <tile coordinate="E5">
+        <mission>Adventure Battle: Defeat the commanders of two armies! Lv.1</mission>
+        <loot-a>Cutlass Lv.4+ - Tetra</loot-a>
+        <loot-v/>
+        <treasure>
+          <item>Heart Container - Tetra (Mine Keep)</item>
+          <item>Gold Skulltula x2</item>
+        </treasure>
+        <ko-a>1200</ko-a>
+        <time-a>15 Minutes</time-a>
+        <damage-a>
+          <platform-specific>
+            <platform name="3ds"> 4000 </platform>
+            <platform name="switch"> 149</platform>
+          </platform-specific>
+        </damage-a>
+        <difficulty>2</difficulty>
+      </tile>
+      <tile coordinate="E6">
+        <mission>Adventure Battle: Capture the enemy keeps!</mission>
+        <loot-a/>
+        <loot-v>
+          <item>Standard Outfit (Koholint) - Wizzro</item>
+          <item>Full Moon Cello Item Card</item>
+        </loot-v>
+        <treasure>
+          <item>Heart Container - Wizzro (Dragon Roost)</item>
+          <item>Fairy Headwear - Toronbo Sun Hat (Jail Watch Keep)</item>
+          <item>Fairy Food - (Star Island Keep [Pot])</item>
+        </treasure>
+        <ko-a>
+          <platform-specific>
+            <platform name="3ds"> 1200 </platform>
+            <platform name="switch"> 1000</platform>
+          </platform-specific>
+        </ko-a>
+        <time-a>15 Minutes</time-a>
+        <damage-a>
+          <platform-specific>
+            <platform name="3ds"> 4000 </platform>
+            <platform name="switch"> 99</platform>
+          </platform-specific>
+        </damage-a>
+        <difficulty>1</difficulty>
+      </tile>
+      <tile coordinate="F4">
+        <mission>Challenge Battle: Defeat all enemies! Lv.1</mission>
+        <loot-a>Heart Container - Marin</loot-a>
+        <loot-v>Grandpa Ulrira Item Card</loot-v>
+        <treasure/>
+        <ko-a/>
+        <time-a>15 Minutes</time-a>
+        <damage-a>
+          <platform-specific>
+            <platform name="3ds"> 4000 </platform>
+            <platform name="switch"> 149</platform>
+          </platform-specific>
+        </damage-a>
+        <difficulty>2</difficulty>
+      </tile>
+      <tile coordinate="F6">
+        <mission>Challenge Battle: Defeat the shuffling forces! Lv.6</mission>
+        <loot-a/>
+        <loot-v/>
+        <treasure/>
+        <ko-a/>
+        <time-a>15 Minutes</time-a>
+        <damage-a>
+          <platform-specific>
+            <platform name="3ds"> 4000 </platform>
+            <platform name="switch"> 149</platform>
+          </platform-specific>
+        </damage-a>
+        <difficulty>2</difficulty>
+      </tile>
+      <tile coordinate="G6">
+        <mission>Adventure Battle: Rescue the allied forces! Lv.1</mission>
+        <loot-a>
+          <platform-specific>
+            <platform name="3ds"> Boots Lv.2 - Linkle</platform>
+            <platform name="switch"> Boots Lv.3 - Linkle</platform>
+          </platform-specific>
+        </loot-a>
+        <loot-v>Conch Horn Item Card</loot-v>
+        <treasure>
+          <item>Heart Container - Linkle (W. Boulder Keep)</item>
+          <item>My Fairy - Light (East Goron Keep [Pot])</item>
+          <item>Fairy Food - Light Fruit (East Keep [Pot])</item>
+        </treasure>
+        <ko-a/>
+        <time-a>15 Minutes</time-a>
+        <damage-a>
+          <platform-specific>
+            <platform name="3ds"> 4000 </platform>
+            <platform name="switch"> 149</platform>
+          </platform-specific>
+        </damage-a>
+        <difficulty>2</difficulty>
       </tile>
     </tiles>
   </map>
