@@ -13931,6 +13931,46 @@
         </damage-a>
         <difficulty>2</difficulty>
       </tile>
+      <tile coordinate="C3">
+        <mission>Adventure Battle: Defend the allied keeps! Lv.1</mission>
+        <loot-a>Heart Container - Toon Zelda</loot-a>
+        <loot-v>Railway Track Item Card</loot-v>
+        <treasure>Gold Skulltula x2</treasure>
+        <ko-a>
+          <platform-specific>
+            <platform name="3ds"> 1200</platform>
+            <platform name="switch"> 1600</platform>
+          </platform-specific>
+        </ko-a>
+        <time-a>15 Minutes</time-a>
+        <damage-a>
+          <platform-specific>
+            <platform name="3ds"> 4000</platform>
+            <platform name="switch"> 199</platform>
+          </platform-specific>
+        </damage-a>
+        <difficulty>5</difficulty>
+      </tile>
+      <tile coordinate="C4">
+        <mission>Adventure Battle: Win the keep-capturing competition! Lv.1</mission>
+        <loot-a/>
+        <loot-v>Whirlwind Item Card</loot-v>
+        <treasure>Fairy Food - Ordon Goat Cheese (East Garden [Pot])</treasure>
+        <ko-a>
+          <platform-specific>
+            <platform name="3ds"> 1200</platform>
+            <platform name="switch"> 1600</platform>
+          </platform-specific>
+        </ko-a>
+        <time-a>15 Minutes</time-a>
+        <damage-a>
+          <platform-specific>
+            <platform name="3ds"> 4000</platform>
+            <platform name="switch"> 199</platform>
+          </platform-specific>
+        </damage-a>
+        <difficulty>5</difficulty>
+      </tile>
       <tile coordinate="C5">
         <mission>Challenge Battle: Fight through the mystery mastery quiz!</mission>
         <loot-a/>
@@ -14001,6 +14041,87 @@
         </damage-a>
         <difficulty>0</difficulty>
       </tile>
+      <tile coordinate="D1">
+        <mission>Adventure Battle: Win the keep-capturing competition! Lv.2</mission>
+        <loot-a>
+          <platform-specific>
+            <platform name="3ds"> Sand Wand Lv.3 - Toon Link</platform>
+            <platform name="switch"> Sand Wand Lv.4 - Toon Link</platform>
+          </platform-specific>
+        </loot-a>
+        <loot-v>Cannon Item Card</loot-v>
+        <treasure>
+          <item>Heart Container - Toon Link (Academy Keep)</item>
+          <item>Fairy Food - Skullfish (Academy Keep [Pot])</item>
+        </treasure>
+        <ko-a>
+          <platform-specific>
+            <platform name="3ds"> 1200</platform>
+            <platform name="switch"> 1600</platform>
+          </platform-specific>
+        </ko-a>
+        <time-a>15 Minutes</time-a>
+        <damage-a>
+          <platform-specific>
+            <platform name="3ds"> 4000</platform>
+            <platform name="switch"> 199</platform>
+          </platform-specific>
+        </damage-a>
+        <difficulty>5</difficulty>
+      </tile>
+      <tile coordinate="D2">
+        <mission>Challenge Battle: Defeat the Copycat Soldiers! Lv.10</mission>
+        <loot-a>Heart Container - Toon Zelda</loot-a>
+        <loot-v>Steel Train Item Card</loot-v>
+        <treasure/>
+        <ko-a/>
+        <time-a>15 Minutes</time-a>
+        <damage-a>
+          <platform-specific>
+            <platform name="3ds"> 4000</platform>
+            <platform name="switch"> 199</platform>
+          </platform-specific>
+        </damage-a>
+        <difficulty>5</difficulty>
+      </tile>
+      <tile coordinate="D3">
+        <mission>Adventure Battle: Defeat the warriors of Twilight! Lv.2</mission>
+        <loot-a/>
+        <loot-v>
+          <item>Standard Outfit (Grand Travels) - Darunia</item>
+          <item>Compass Item Card</item>
+        </loot-v>
+        <treasure/>
+        <ko-a/>
+        <time-a>15 Minutes</time-a>
+        <damage-a>
+          <platform-specific>
+            <platform name="3ds"> 4000</platform>
+            <platform name="switch"> 199</platform>
+          </platform-specific>
+        </damage-a>
+        <difficulty>5</difficulty>
+      </tile>
+      <tile coordinate="D4">
+        <mission>Adventure Battle: Defeat the warriors of Twilight! Lv.2</mission>
+        <loot-a/>
+        <loot-v/>
+        <treasure/>
+        <ko-a>
+          <platform-specific>
+            <platform name="3ds"> 1200</platform>
+            <platform name="switch"> 1600</platform>
+          </platform-specific>
+        </ko-a>
+        <time-a>15 Minutes</time-a>
+        <damage-a>
+          <platform-specific>
+            <platform name="3ds"> 4000</platform>
+            <platform name="switch"> 199</platform>
+          </platform-specific>
+        </damage-a>
+        <difficulty>5</difficulty>
+      </tile>
       <tile coordinate="D5">
         <mission>Adventure Battle: Defeat the barrier specialist forces! Lv.1</mission>
         <loot-a>Heart Container - Midna</loot-a>
@@ -14066,6 +14187,63 @@
           </platform-specific>
         </damage-a>
         <difficulty>0</difficulty>
+      </tile>
+      <tile coordinate="E1">
+        <mission>Challenge Battle: Defeat all Giant Bosses in time! Lv.3</mission>
+        <loot-a>Heart Container - Ruto</loot-a>
+        <loot-v>Whirlwind Item Card</loot-v>
+        <treasure/>
+        <ko-a/>
+        <time-a>7 Minutes</time-a>
+        <damage-a>
+          <platform-specific>
+            <platform name="3ds"> 4000</platform>
+            <platform name="switch"> 199</platform>
+          </platform-specific>
+        </damage-a>
+        <difficulty>5</difficulty>
+      </tile>
+      <tile coordinate="E2">
+        <mission>Adventure Battle: Final battle! Defeat the giant bird of the Fire Temple!</mission>
+        <loot-a/>
+        <loot-v>
+          <item>Standard Outfit (Grand Travels) - Volga</item>
+          <item>Whirlwind Item Card</item>
+        </loot-v>
+        <treasure>Fairy Food - Ordon Goat Cheese (Exit Square [Pot])</treasure>
+        <ko-a>
+          <platform-specific>
+            <platform name="3ds"> 1200</platform>
+            <platform name="switch"> 1600</platform>
+          </platform-specific>
+        </ko-a>
+        <time-a>15 Minutes</time-a>
+        <damage-a>
+          <platform-specific>
+            <platform name="3ds"> 4000</platform>
+            <platform name="switch"> 199</platform>
+          </platform-specific>
+        </damage-a>
+        <difficulty>5</difficulty>
+      </tile>
+      <tile coordinate="E3">
+        <mission>Challenge Battle: Stop the enemy merger! Lv.2</mission>
+        <loot-a>
+          <platform-specific>
+            <platform name="switch"> Rito Harp Lv.4+ - Medli</platform>
+          </platform-specific>
+        </loot-a>
+        <loot-v>Cannon Item Card</loot-v>
+        <treasure/>
+        <ko-a/>
+        <time-a>15 Minutes</time-a>
+        <damage-a>
+          <platform-specific>
+            <platform name="3ds"> 4000</platform>
+            <platform name="switch"> 199</platform>
+          </platform-specific>
+        </damage-a>
+        <difficulty>5</difficulty>
       </tile>
       <tile coordinate="E4">
         <mission>Adventure Battle: Defeat the Aeralfos Forces! Lv.2</mission>
@@ -14150,6 +14328,26 @@
           </platform-specific>
         </damage-a>
         <difficulty>3</difficulty>
+      </tile>
+      <tile coordinate="F1">
+        <mission>Adventure Battle: Fight the heroes of the Wind Waker! Lv.1</mission>
+        <loot-a/>
+        <loot-v/>
+        <treasure/>
+        <ko-a>
+          <platform-specific>
+            <platform name="3ds"> 1200</platform>
+            <platform name="switch"> 1600</platform>
+          </platform-specific>
+        </ko-a>
+        <time-a>15 Minutes</time-a>
+        <damage-a>
+          <platform-specific>
+            <platform name="3ds"> 4000</platform>
+            <platform name="switch"> 199</platform>
+          </platform-specific>
+        </damage-a>
+        <difficulty>5</difficulty>
       </tile>
       <tile coordinate="F3">
         <mission>Adventure Battle: Defeat the Dinolfos Forces!</mission>
@@ -14629,6 +14827,105 @@
         </damage-a>
         <difficulty>2</difficulty>
       </tile>
+      <tile coordinate="L1">
+        <mission>Adventure Battle: Take on the warriors of Majora's Mask! Lv.2</mission>
+        <loot-a>Mirror Lv.4+ - Twili Midna</loot-a>
+        <loot-v>Fishing Rod Item Card</loot-v>
+        <treasure>
+          <item>Heart Container - Twili Midna (Lakeside Keep)</item>
+          <item>Fairy Food - Ordon Catfish (Hall of Mirrors [Pot])</item>
+        </treasure>
+        <ko-a>
+          <platform-specific>
+            <platform name="3ds"> 1200</platform>
+            <platform name="switch"> 1600</platform>
+          </platform-specific>
+        </ko-a>
+        <time-a>15 Minutes</time-a>
+        <damage-a>
+          <platform-specific>
+            <platform name="3ds"> 4000</platform>
+            <platform name="switch"> 199</platform>
+          </platform-specific>
+        </damage-a>
+        <difficulty>5</difficulty>
+      </tile>
+      <tile coordinate="L2">
+        <mission>Adventure Battle: Defeat the warriors of Skyloft! Lv.2</mission>
+        <loot-a/>
+        <loot-v/>
+        <treasure/>
+        <ko-a>
+          <platform-specific>
+            <platform name="3ds"> 1200</platform>
+            <platform name="switch"> 1600</platform>
+          </platform-specific>
+        </ko-a>
+        <time-a>15 Minutes</time-a>
+        <damage-a>
+          <platform-specific>
+            <platform name="3ds"> 4000</platform>
+            <platform name="switch"> 199</platform>
+          </platform-specific>
+        </damage-a>
+        <difficulty>5</difficulty>
+      </tile>
+      <tile coordinate="L3">
+        <mission>Challenge Battle: Defeat the Copycat Soldiers! Lv.11</mission>
+        <loot-a>Heart Container - Darunia</loot-a>
+        <loot-v>Iron Ship Item Card</loot-v>
+        <treasure/>
+        <ko-a/>
+        <time-a>15 Minutes</time-a>
+        <damage-a>
+          <platform-specific>
+            <platform name="3ds"> 4000</platform>
+            <platform name="switch"> 199</platform>
+          </platform-specific>
+        </damage-a>
+        <difficulty>5</difficulty>
+      </tile>
+      <tile coordinate="L4">
+        <mission>Challenge Battle: Defeat all enemies! Lv.2</mission>
+        <loot-a/>
+        <loot-v>
+          <item>Standard Outfit (Grand Travels) - Tingle</item>
+          <item>Compass Item Card</item>
+        </loot-v>
+        <treasure/>
+        <ko-a/>
+        <time-a>15 Minutes</time-a>
+        <damage-a>
+          <platform-specific>
+            <platform name="3ds"> 4000</platform>
+            <platform name="switch"> 199</platform>
+          </platform-specific>
+        </damage-a>
+        <difficulty>5</difficulty>
+      </tile>
+      <tile coordinate="L5">
+        <mission>Adventure Battle: Get to those troops before the others do! Lv.2</mission>
+        <loot-a>Heart Container - Zelda</loot-a>
+        <loot-v>Cannon Item Card</loot-v>
+        <treasure>
+          <item>Fairy Headwear - Destiny Tiara (South Square)</item>
+          <item>Fairy Food - Ordon Catfish (Sacred Pedestal [Pot])</item>
+        </treasure>
+        <ko-a>
+          <platform-specific>
+            <platform name="3ds"> 1200</platform>
+            <platform name="switch"> 1600</platform>
+          </platform-specific>
+        </ko-a>
+        <time-a>15 Minutes</time-a>
+        <damage-a>
+          <platform-specific>
+            <platform name="3ds"> 4000</platform>
+            <platform name="switch"> 199</platform>
+          </platform-specific>
+        </damage-a>
+        <difficulty>5</difficulty>
+      </tile>
       <tile coordinate="L6">
         <mission>Challenge Battle: Thwart the supercharged enemies! Lv.2</mission>
         <loot-a/>
@@ -14683,6 +14980,52 @@
         </damage-a>
         <difficulty>1</difficulty>
       </tile>
+      <tile coordinate="M1">
+        <mission>Adventure Battle: Stop the Rogue Forces and defeat the enemy! Lv.5</mission>
+        <loot-a/>
+        <loot-v>S.S. Linebeck Item Card</loot-v>
+        <treasure>
+          <item>Fairy Bottom - Destiny Skirt (East Garden)</item>
+          <item>Fairy Food - Hylian Loach (Northeast Keep [Pot])</item>
+        </treasure>
+        <ko-a>
+          <platform-specific>
+            <platform name="3ds"> 1200</platform>
+            <platform name="switch"> 1600</platform>
+          </platform-specific>
+        </ko-a>
+        <time-a>15 Minutes</time-a>
+        <damage-a>
+          <platform-specific>
+            <platform name="3ds"> 4000</platform>
+            <platform name="switch"> 199</platform>
+          </platform-specific>
+        </damage-a>
+        <difficulty>5</difficulty>
+      </tile>
+      <tile coordinate="M4">
+        <mission>Adventure Battle: Defeat the warriors of time! Lv.2</mission>
+        <loot-a/>
+        <loot-v>Cyclone Slate Item Card</loot-v>
+        <treasure>
+          <item>Fairy Decoration - Destiny Necklace (Stronghold)</item>
+          <item>Fairy Food - Hylian Loach (Stronghold [Pot])</item>
+        </treasure>
+        <ko-a>
+          <platform-specific>
+            <platform name="3ds"> 1200</platform>
+            <platform name="switch"> 1600</platform>
+          </platform-specific>
+        </ko-a>
+        <time-a>15 Minutes</time-a>
+        <damage-a>
+          <platform-specific>
+            <platform name="3ds"> 4000</platform>
+            <platform name="switch"> 199</platform>
+          </platform-specific>
+        </damage-a>
+        <difficulty>5</difficulty>
+      </tile>
       <tile coordinate="M7">
         <mission>Challenge Battle: Team up and defeat the enemy forces! Lv.1</mission>
         <loot-a/>
@@ -14724,6 +15067,82 @@
         </damage-a>
         <difficulty>1</difficulty>
       </tile>
+      <tile coordinate="N1">
+        <mission>Adventure Battle: Defeat the enemy forces!</mission>
+        <loot-a/>
+        <loot-v/>
+        <treasure/>
+        <ko-a>
+          <platform-specific>
+            <platform name="3ds"> 1200</platform>
+            <platform name="switch"> 1600</platform>
+          </platform-specific>
+        </ko-a>
+        <time-a>15 Minutes</time-a>
+        <damage-a>
+          <platform-specific>
+            <platform name="3ds"> 4000</platform>
+            <platform name="switch"> 199</platform>
+          </platform-specific>
+        </damage-a>
+        <difficulty>5</difficulty>
+      </tile>
+      <tile coordinate="N2">
+        <mission>Challenge Battle: Win the Rupee competition! Lv.5</mission>
+        <loot-a>Heart Container - Skull Kid</loot-a>
+        <loot-v>Cannon Item Card</loot-v>
+        <treasure/>
+        <ko-a/>
+        <time-a/>
+        <damage-a>
+          <platform-specific>
+            <platform name="3ds"> 4000</platform>
+            <platform name="switch"> 199</platform>
+          </platform-specific>
+        </damage-a>
+        <difficulty>5</difficulty>
+      </tile>
+      <tile coordinate="N3">
+        <mission>Adventure Battle: An SOS?! Quickly, to the rescue!</mission>
+        <loot-a/>
+        <loot-v>
+          <item>Standard Outfit (Grand Travels) - Zelda</item>
+          <item>Compass Item Card</item>
+        </loot-v>
+        <treasure>
+          <item>Fairy Top - Destiny Top (Hilltop Keep)</item>
+          <item>Fairy Food - Greengill (South Field Keep [Pot])</item>
+        </treasure>
+        <ko-a>
+          <platform-specific>
+            <platform name="3ds"> 1200</platform>
+            <platform name="switch"> 1600</platform>
+          </platform-specific>
+        </ko-a>
+        <time-a>15 Minutes</time-a>
+        <damage-a>
+          <platform-specific>
+            <platform name="3ds"> 4000</platform>
+            <platform name="switch"> 199</platform>
+          </platform-specific>
+        </damage-a>
+        <difficulty>5</difficulty>
+      </tile>
+      <tile coordinate="N4">
+        <mission>Challenge Battle: Team up and defeat the enemy forces! Lv.2</mission>
+        <loot-a>Heart Container - Young Link</loot-a>
+        <loot-v>Fishing Rod Item Card</loot-v>
+        <treasure/>
+        <ko-a/>
+        <time-a>15 Minutes</time-a>
+        <damage-a>
+          <platform-specific>
+            <platform name="3ds"> 4000</platform>
+            <platform name="switch"> 199</platform>
+          </platform-specific>
+        </damage-a>
+        <difficulty>5</difficulty>
+      </tile>
       <tile coordinate="N6">
         <mission>Challenge Battle: Defeat the Copycat Soldiers! Lv.8</mission>
         <loot-a>Balloon Lv.4+ - Tingle</loot-a>
@@ -14753,6 +15172,64 @@
           </platform-specific>
         </damage-a>
         <difficulty>4</difficulty>
+      </tile>
+      <tile coordinate="N8">
+        <mission>Adventure Battle: Fight the heroes of the Wind Waker! Lv.2</mission>
+        <loot-a>Ring Lv.4+ - Wizzro</loot-a>
+        <loot-v>Fishing Rod Item Card</loot-v>
+        <treasure>
+          <item>Heart Container - Wizzro (Jail Watch Keep)</item>
+          <item>Fairy Food - Greengill (Star Island Keep [Pot])</item>
+        </treasure>
+        <ko-a>
+          <platform-specific>
+            <platform name="3ds"> 1200</platform>
+            <platform name="switch"> 1600</platform>
+          </platform-specific>
+        </ko-a>
+        <time-a>15 Minutes</time-a>
+        <damage-a>
+          <platform-specific>
+            <platform name="3ds"> 4000</platform>
+            <platform name="switch"> 199</platform>
+          </platform-specific>
+        </damage-a>
+        <difficulty>5</difficulty>
+      </tile>
+      <tile coordinate="O3">
+        <mission>Adventure Battle: Fight as a warrior of light! Lv.2</mission>
+        <loot-a>Heart Container - Sheik</loot-a>
+        <loot-v>Cannon Item Card</loot-v>
+        <treasure>Gold Skulltula x2</treasure>
+        <ko-a>
+          <platform-specific>
+            <platform name="3ds"> 1200</platform>
+            <platform name="switch"> 1600</platform>
+          </platform-specific>
+        </ko-a>
+        <time-a>15 Minutes</time-a>
+        <damage-a>
+          <platform-specific>
+            <platform name="3ds"> 4000</platform>
+            <platform name="switch"> 199</platform>
+          </platform-specific>
+        </damage-a>
+        <difficulty>5</difficulty>
+      </tile>
+      <tile coordinate="O4">
+        <mission>Challenge Battle: Defeat the shuffling forces! Lv.2</mission>
+        <loot-a/>
+        <loot-v>Fishing Rod Item Card</loot-v>
+        <treasure/>
+        <ko-a/>
+        <time-a>15 Minutes</time-a>
+        <damage-a>
+          <platform-specific>
+            <platform name="3ds"> 4000</platform>
+            <platform name="switch"> 199</platform>
+          </platform-specific>
+        </damage-a>
+        <difficulty>5</difficulty>
       </tile>
       <tile coordinate="O5">
         <mission>Challenge Battle: Defeat the Copycat Soldiers! Lv.9</mission>
@@ -14798,6 +15275,21 @@
           </platform-specific>
         </damage-a>
         <difficulty>4</difficulty>
+      </tile>
+      <tile coordinate="O8">
+        <mission>Challenge Battle: Fight through the action quiz!</mission>
+        <loot-a/>
+        <loot-v>Iron Ship Item Card</loot-v>
+        <treasure/>
+        <ko-a>3</ko-a>
+        <time-a>15 Minutes</time-a>
+        <damage-a>
+          <platform-specific>
+            <platform name="3ds"> 4000</platform>
+            <platform name="switch"> 199</platform>
+          </platform-specific>
+        </damage-a>
+        <difficulty>5</difficulty>
       </tile>
       <tile coordinate="P4">
         <mission>Adventure Battle: Final battle! Defeat the beast of the iceberg!</mission>
@@ -14849,6 +15341,41 @@
           </platform-specific>
         </damage-a>
         <difficulty>4</difficulty>
+      </tile>
+      <tile coordinate="P7">
+        <mission>Challenge Battle: Thwart the supercharged enemies! Lv.12</mission>
+        <loot-a/>
+        <loot-v>Cannon Item Card</loot-v>
+        <treasure/>
+        <ko-a/>
+        <time-a>15 Minutes</time-a>
+        <damage-a>
+          <platform-specific>
+            <platform name="3ds"> 4000</platform>
+            <platform name="switch"> 199</platform>
+          </platform-specific>
+        </damage-a>
+        <difficulty>5</difficulty>
+      </tile>
+      <tile coordinate="P8">
+        <mission>Adventure Battle: Stop the Rogue Forces and defeat the enemy! Lv.4</mission>
+        <loot-a/>
+        <loot-v/>
+        <treasure/>
+        <ko-a>
+          <platform-specific>
+            <platform name="3ds"> 1200</platform>
+            <platform name="switch"> 1600</platform>
+          </platform-specific>
+        </ko-a>
+        <time-a>15 Minutes</time-a>
+        <damage-a>
+          <platform-specific>
+            <platform name="3ds"> 4000</platform>
+            <platform name="switch"> 199</platform>
+          </platform-specific>
+        </damage-a>
+        <difficulty>5</difficulty>
       </tile>
     </tiles>
   </map>
@@ -14959,6 +15486,44 @@
         </damage-a>
         <difficulty>5</difficulty>
       </tile>
+      <tile coordinate="A7">
+        <mission>Adventure Battle: Capture the enemy keeps! Lv.2</mission>
+        <loot-a>Spinner Lv.4+ - Link</loot-a>
+        <loot-v>Hammer Item Card</loot-v>
+        <treasure>
+          <item>Heart Container - Link (North Oasis)</item>
+          <item>Fairy Food - Great Fairy's Tears (S. Desert Keep [Pot])</item>
+        </treasure>
+        <ko-a>
+          <platform-specific>
+            <platform name="3ds"> 1600</platform>
+            <platform name="switch"> 1200</platform>
+          </platform-specific>
+        </ko-a>
+        <time-a>15 Minutes</time-a>
+        <damage-a>
+          <platform-specific>
+            <platform name="3ds"> 10000</platform>
+            <platform name="switch"> 199</platform>
+          </platform-specific>
+        </damage-a>
+        <difficulty>6</difficulty>
+      </tile>
+      <tile coordinate="A8">
+        <mission>Challenge Battle: Stop the enemy merger! Lv.5</mission>
+        <loot-a/>
+        <loot-v/>
+        <treasure/>
+        <ko-a/>
+        <time-a>15 Minutes</time-a>
+        <damage-a>
+          <platform-specific>
+            <platform name="3ds"> 10000</platform>
+            <platform name="switch"> 199</platform>
+          </platform-specific>
+        </damage-a>
+        <difficulty>6</difficulty>
+      </tile>
       <tile coordinate="B1">
         <mission>Challenge Battle: Scour the battlefield in pursuit of victory! Lv.8</mission>
         <loot-a>Heart Container - Skull Kid</loot-a>
@@ -15052,6 +15617,47 @@
           </platform-specific>
         </damage-a>
         <difficulty>3</difficulty>
+      </tile>
+      <tile coordinate="B7">
+        <mission>Adventure Battle: Destroy the army with boosted morale! Lv.3</mission>
+        <loot-a>Giant Blade Lv.4+ - Impa</loot-a>
+        <loot-v>Power Glove Item Card</loot-v>
+        <treasure>
+          <item>Heart Container - Impa (South Mine Keep)</item>
+          <item>Fairy Food - Meat (North Mine Keep [Pot])</item>
+        </treasure>
+        <ko-a>
+          <platform-specific>
+            <platform name="3ds"> 1200</platform>
+            <platform name="switch"> 1600</platform>
+          </platform-specific>
+        </ko-a>
+        <time-a>15 Minutes</time-a>
+        <damage-a>
+          <platform-specific>
+            <platform name="3ds"> 10000</platform>
+            <platform name="switch"> 199</platform>
+          </platform-specific>
+        </damage-a>
+        <difficulty>6</difficulty>
+      </tile>
+      <tile coordinate="B8">
+        <mission>Challenge Battle: Hunt down and defeat your foes! Lv.12</mission>
+        <loot-a/>
+        <loot-v>
+          <item>Standard Outfit (Lorule) - Ganondorf</item>
+          <item>Bomb Item Card</item>
+        </loot-v>
+        <treasure/>
+        <ko-a/>
+        <time-a>15 Minutes</time-a>
+        <damage-a>
+          <platform-specific>
+            <platform name="3ds"> 10000</platform>
+            <platform name="switch"> 199</platform>
+          </platform-specific>
+        </damage-a>
+        <difficulty>6</difficulty>
       </tile>
       <tile coordinate="C1">
         <mission>Adventure Battle: Get more allied keeps and defeat the enemy! Lv.2</mission>
@@ -15502,6 +16108,41 @@
         </damage-a>
         <difficulty>5</difficulty>
       </tile>
+      <tile coordinate="F7">
+        <mission>Challenge Battle: Hunt down and defeat your foes! Lv.10</mission>
+        <loot-a>Heart Container - Ganondorf</loot-a>
+        <loot-v>Baby Maiamai Item Card</loot-v>
+        <treasure/>
+        <ko-a/>
+        <time-a>15 Minutes</time-a>
+        <damage-a>
+          <platform-specific>
+            <platform name="3ds"> 10000</platform>
+            <platform name="switch"> 199</platform>
+          </platform-specific>
+        </damage-a>
+        <difficulty>6</difficulty>
+      </tile>
+      <tile coordinate="F8">
+        <mission>Adventure Battle: Defeat the warriors of Twilight!</mission>
+        <loot-a>Heart Container - Ruto</loot-a>
+        <loot-v>Bomb Item Card</loot-v>
+        <treasure>Gold Skulltula x2</treasure>
+        <ko-a>
+          <platform-specific>
+            <platform name="3ds"> 1200</platform>
+            <platform name="switch"> 1600</platform>
+          </platform-specific>
+        </ko-a>
+        <time-a>15 Minutes</time-a>
+        <damage-a>
+          <platform-specific>
+            <platform name="3ds"> 10000</platform>
+            <platform name="switch"> 199</platform>
+          </platform-specific>
+        </damage-a>
+        <difficulty>6</difficulty>
+      </tile>
       <tile coordinate="G1">
         <mission>Challenge Battle: Defeat the shuffling forces! Lv.3</mission>
         <loot-a>Heart Container - Yuga</loot-a>
@@ -15597,6 +16238,102 @@
         </damage-a>
         <difficulty>5</difficulty>
       </tile>
+      <tile coordinate="G7">
+        <mission>Adventure Battle: Final battle! Defeat the bird of Lake Hylia!</mission>
+        <loot-a>Heart Container - Linkle</loot-a>
+        <loot-v>Tornado Rod Item Card</loot-v>
+        <treasure>
+          <item>Fairy Headwear - Queen's Crown (Jail Watch Keep)</item>
+          <item>Fairy Food - Hyrule Bass (Bomb Shop [Pot])</item>
+        </treasure>
+        <ko-a>
+          <platform-specific>
+            <platform name="3ds"> 1200</platform>
+            <platform name="switch"> 1600</platform>
+          </platform-specific>
+        </ko-a>
+        <time-a>15 Minutes</time-a>
+        <damage-a>
+          <platform-specific>
+            <platform name="3ds"> 10000</platform>
+            <platform name="switch"> 199</platform>
+          </platform-specific>
+        </damage-a>
+        <difficulty>6</difficulty>
+      </tile>
+      <tile coordinate="G8">
+        <mission>Challenge Battle: Stop the enemy merger! Lv.4</mission>
+        <loot-a>Heart Container - Yuga</loot-a>
+        <loot-v>Hammer Item Card</loot-v>
+        <treasure/>
+        <ko-a/>
+        <time-a>15 Minutes</time-a>
+        <damage-a>
+          <platform-specific>
+            <platform name="3ds"> 10000</platform>
+            <platform name="switch"> 199</platform>
+          </platform-specific>
+        </damage-a>
+        <difficulty>6</difficulty>
+      </tile>
+      <tile coordinate="H1">
+        <mission>Adventure Battle: Get more allied keeps and defeat the enemy! Lv.3</mission>
+        <loot-a>Great Swords Lv.4+ - Ganondorf</loot-a>
+        <loot-v>Power Glove Item Card</loot-v>
+        <treasure>Fairy Food - Great Fairy's Tears (West Keep [Pot])</treasure>
+        <ko-a>
+          <platform-specific>
+            <platform name="3ds"> 1200</platform>
+            <platform name="switch"> 1600</platform>
+          </platform-specific>
+        </ko-a>
+        <time-a>15 Minutes</time-a>
+        <damage-a>
+          <platform-specific>
+            <platform name="3ds"> 10000</platform>
+            <platform name="switch"> 199</platform>
+          </platform-specific>
+        </damage-a>
+        <difficulty>6</difficulty>
+      </tile>
+      <tile coordinate="H2">
+        <mission>Adventure Battle: Defeat the warriors of time! Lv.2</mission>
+        <loot-a/>
+        <loot-v/>
+        <treasure/>
+        <ko-a>
+          <platform-specific>
+            <platform name="3ds"> 1200</platform>
+            <platform name="switch"> 1600</platform>
+          </platform-specific>
+        </ko-a>
+        <time-a>15 Minutes</time-a>
+        <damage-a>
+          <platform-specific>
+            <platform name="3ds"> 10000</platform>
+            <platform name="switch"> 199</platform>
+          </platform-specific>
+        </damage-a>
+        <difficulty>6</difficulty>
+      </tile>
+      <tile coordinate="H3">
+        <mission>Challenge Battle: Thwart the supercharged enemies! Lv.4</mission>
+        <loot-a/>
+        <loot-v>
+          <item>Standard Outfit (Lorule) - Midna</item>
+          <item>Boomerang Item Card</item>
+        </loot-v>
+        <treasure/>
+        <ko-a/>
+        <time-a>15 Minutes</time-a>
+        <damage-a>
+          <platform-specific>
+            <platform name="3ds"> 10000</platform>
+            <platform name="switch"> 199</platform>
+          </platform-specific>
+        </damage-a>
+        <difficulty>6</difficulty>
+      </tile>
       <tile coordinate="H4">
         <mission>Adventure Battle: Defeat the Stone Moblin Forces!</mission>
         <loot-a>
@@ -15644,6 +16381,66 @@
           </platform-specific>
         </damage-a>
         <difficulty>5</difficulty>
+      </tile>
+      <tile coordinate="H6">
+        <mission>Adventure Battle: Destroy the army with boosted morale!</mission>
+        <loot-a>
+          <platform-specific>
+            <platform name="3ds"> Lv.4 Rental Hammer - Ravio</platform>
+            <platform name="switch"> Lv.4+ Rental Hammer - Ravio</platform>
+          </platform-specific>
+        </loot-a>
+        <loot-v>Hookshot Item Card</loot-v>
+        <treasure>Fairy Food - Pegasus Seeds (West Square [Pot])</treasure>
+        <ko-a>
+          <platform-specific>
+            <platform name="3ds"> 1600</platform>
+            <platform name="switch"> 1200</platform>
+          </platform-specific>
+        </ko-a>
+        <time-a>15 Minutes</time-a>
+        <damage-a>
+          <platform-specific>
+            <platform name="3ds"> 10000</platform>
+            <platform name="switch"> 199</platform>
+          </platform-specific>
+        </damage-a>
+        <difficulty>6</difficulty>
+      </tile>
+      <tile coordinate="H7">
+        <mission>Adventure Battle: Push, push! Shove, shove! Move that weight!</mission>
+        <loot-a/>
+        <loot-v/>
+        <treasure/>
+        <ko-a>
+          <platform-specific>
+            <platform name="3ds"> 1600</platform>
+            <platform name="switch"> 1200</platform>
+          </platform-specific>
+        </ko-a>
+        <time-a>15 Minutes</time-a>
+        <damage-a>
+          <platform-specific>
+            <platform name="3ds"> 10000</platform>
+            <platform name="switch"> 199</platform>
+          </platform-specific>
+        </damage-a>
+        <difficulty>6</difficulty>
+      </tile>
+      <tile coordinate="H8">
+        <mission>Challenge Battle: Fight through the legendary warrior quiz!</mission>
+        <loot-a>Heart Container - Tetra</loot-a>
+        <loot-v>Bomb Item Card</loot-v>
+        <treasure/>
+        <ko-a>3</ko-a>
+        <time-a>15 Minutes</time-a>
+        <damage-a>
+          <platform-specific>
+            <platform name="3ds"> 10000</platform>
+            <platform name="switch"> 199</platform>
+          </platform-specific>
+        </damage-a>
+        <difficulty>6</difficulty>
       </tile>
       <tile coordinate="I1">
         <mission>Adventure Battle: Defeat the warriors of Skyloft! Lv.1</mission>
@@ -15742,6 +16539,49 @@
           </platform-specific>
         </damage-a>
         <difficulty>5</difficulty>
+      </tile>
+      <tile coordinate="I7">
+        <mission>Adventure Battle: Final battle! Defeat the beast of the Desert Palace!</mission>
+        <loot-a/>
+        <loot-v>
+          <item>Standard Outfit (Lorule) - Fi</item>
+          <item>Bomb Item Card</item>
+        </loot-v>
+        <treasure>Fairy Food - Bombfish (Rockface Keep [Pot])</treasure>
+        <ko-a>
+          <platform-specific>
+            <platform name="3ds"> 1600</platform>
+            <platform name="switch"> 1200</platform>
+          </platform-specific>
+        </ko-a>
+        <time-a>15 Minutes</time-a>
+        <damage-a>
+          <platform-specific>
+            <platform name="3ds"> 10000</platform>
+            <platform name="switch"> 199</platform>
+          </platform-specific>
+        </damage-a>
+        <difficulty>6</difficulty>
+      </tile>
+      <tile coordinate="I8">
+        <mission>Adventure Battle: Fight the heroes of the Wind Waker! Lv.2</mission>
+        <loot-a/>
+        <loot-v/>
+        <treasure/>
+        <ko-a>
+          <platform-specific>
+            <platform name="3ds"> 1600</platform>
+            <platform name="switch"> 1200</platform>
+          </platform-specific>
+        </ko-a>
+        <time-a>15 Minutes</time-a>
+        <damage-a>
+          <platform-specific>
+            <platform name="3ds"> 10000</platform>
+            <platform name="switch"> 199</platform>
+          </platform-specific>
+        </damage-a>
+        <difficulty>6</difficulty>
       </tile>
       <tile coordinate="J1">
         <mission>Adventure Battle: Final battle! Defeat the beast in the Skull Woods!</mission>
@@ -15868,6 +16708,26 @@
           </platform-specific>
         </damage-a>
         <difficulty>5</difficulty>
+      </tile>
+      <tile coordinate="K1">
+        <mission>Adventure Battle: Defeat the disorderly forces! Lv.3</mission>
+        <loot-a>Hylian Sword Lv.4+ - Link</loot-a>
+        <loot-v>Tornado Rod Item Card</loot-v>
+        <treasure>Fairy Food - Water Fruit (Town Entrance [Pot])</treasure>
+        <ko-a>
+          <platform-specific>
+            <platform name="3ds"> 1200</platform>
+            <platform name="switch"> 1600</platform>
+          </platform-specific>
+        </ko-a>
+        <time-a>15 Minutes</time-a>
+        <damage-a>
+          <platform-specific>
+            <platform name="3ds"> 10000</platform>
+            <platform name="switch"> 199</platform>
+          </platform-specific>
+        </damage-a>
+        <difficulty>6</difficulty>
       </tile>
       <tile coordinate="K2">
         <mission>Challenge Battle: Hunt down and defeat your foes! Lv.5</mission>
@@ -16035,6 +16895,26 @@
         </damage-a>
         <difficulty>5</difficulty>
       </tile>
+      <tile coordinate="L3">
+        <mission>Adventure Battle: Defeat the Stalmaster Forces!</mission>
+        <loot-a>Book of Sorcery Lv.4+ - Lana</loot-a>
+        <loot-v>Wall Painting Item Card</loot-v>
+        <treasure>Fairy Food - Carrot (North Mine Keep [Pot])</treasure>
+        <ko-a>
+          <platform-specific>
+            <platform name="3ds"> 1200</platform>
+            <platform name="switch"> 1600</platform>
+          </platform-specific>
+        </ko-a>
+        <time-a>15 Minutes</time-a>
+        <damage-a>
+          <platform-specific>
+            <platform name="3ds"> 10000</platform>
+            <platform name="switch"> 199</platform>
+          </platform-specific>
+        </damage-a>
+        <difficulty>6</difficulty>
+      </tile>
       <tile coordinate="L6">
         <mission>Challenge Battle: Defeat all Giant Bosses in time! Lv.1</mission>
         <loot-a>Heart Container - Yuga</loot-a>
@@ -16112,6 +16992,21 @@
           </platform-specific>
         </damage-a>
         <difficulty>5</difficulty>
+      </tile>
+      <tile coordinate="M3">
+        <mission>Challenge Battle: Put an end to the enemy's divisive plan! Lv.5</mission>
+        <loot-a>Heart Container - Ganondorf</loot-a>
+        <loot-v>Sand Rod Item Card</loot-v>
+        <treasure/>
+        <ko-a/>
+        <time-a>15 Minutes</time-a>
+        <damage-a>
+          <platform-specific>
+            <platform name="3ds"> 10000</platform>
+            <platform name="switch"> 199</platform>
+          </platform-specific>
+        </damage-a>
+        <difficulty>6</difficulty>
       </tile>
       <tile coordinate="M6">
         <mission>Adventure Battle: Destroy enemies and traitors alike! Lv.2</mission>
@@ -16241,6 +17136,46 @@
         </damage-a>
         <difficulty>5</difficulty>
       </tile>
+      <tile coordinate="N7">
+        <mission>Adventure Battle: A hyper-focused army unit advances!</mission>
+        <loot-a>
+          <platform-specific>
+            <platform name="3ds"> Picture Frame Lv.4 - Yuga</platform>
+            <platform name="switch"> Picture Frame Lv.4+ - Yuga</platform>
+          </platform-specific>
+        </loot-a>
+        <loot-v>Baby Maiamai Item Card</loot-v>
+        <treasure>Fairy Food - Hylian Pike (West Garden [Pot])</treasure>
+        <ko-a>
+          <platform-specific>
+            <platform name="3ds"> 1200</platform>
+            <platform name="switch"> 1600</platform>
+          </platform-specific>
+        </ko-a>
+        <time-a>15 Minutes</time-a>
+        <damage-a>
+          <platform-specific>
+            <platform name="3ds"> 10000</platform>
+            <platform name="switch"> 199</platform>
+          </platform-specific>
+        </damage-a>
+        <difficulty>6</difficulty>
+      </tile>
+      <tile coordinate="N8">
+        <mission>Challenge Battle: Defeat all Giant Bosses in time! Lv.4</mission>
+        <loot-a>Heart Container - Agitha</loot-a>
+        <loot-v>Wall Painting Item Card</loot-v>
+        <treasure/>
+        <ko-a/>
+        <time-a>7 Minutes</time-a>
+        <damage-a>
+          <platform-specific>
+            <platform name="3ds"> 10000</platform>
+            <platform name="switch"> 199</platform>
+          </platform-specific>
+        </damage-a>
+        <difficulty>6</difficulty>
+      </tile>
       <tile coordinate="O1">
         <mission>Adventure Battle: Defeat the enemy forces!</mission>
         <loot-a>Heart Container - Volga</loot-a>
@@ -16275,6 +17210,29 @@
           </platform-specific>
         </damage-a>
         <difficulty>5</difficulty>
+      </tile>
+      <tile coordinate="O3">
+        <mission>Adventure Battle: Defeat the army of Big Blins!</mission>
+        <loot-a>Light Sword Lv.4+ - Toon Link</loot-a>
+        <loot-v>Fire Rod Item Card</loot-v>
+        <treasure>
+          <item>Heart Container - Toon Link (East Room)</item>
+          <item>Fairy Food - Elixir Soup (West Room [Pot])</item>
+        </treasure>
+        <ko-a>
+          <platform-specific>
+            <platform name="3ds"> 1200</platform>
+            <platform name="switch"> 1600</platform>
+          </platform-specific>
+        </ko-a>
+        <time-a>15 Minutes</time-a>
+        <damage-a>
+          <platform-specific>
+            <platform name="3ds"> 10000</platform>
+            <platform name="switch"> 199</platform>
+          </platform-specific>
+        </damage-a>
+        <difficulty>6</difficulty>
       </tile>
       <tile coordinate="O4">
         <mission>Challenge Battle: Scour the battlefield in pursuit of victory! Lv.11</mission>
@@ -16326,6 +17284,47 @@
         </damage-a>
         <difficulty>5</difficulty>
       </tile>
+      <tile coordinate="O7">
+        <mission>Adventure Battle: Final battle! Defeat the dragon of Turtle Rock!</mission>
+        <loot-a/>
+        <loot-v>
+          <item>Standard Outfit (Lorule) - Impa</item>
+          <item>Fire Rod Item Card</item>
+        </loot-v>
+        <treasure>
+          <item>Fairy Top - Queen's Top (Stone Square)</item>
+          <item>Fairy Food - Skullfish (Central Square [Pot])</item>
+        </treasure>
+        <ko-a>
+          <platform-specific>
+            <platform name="3ds"> 1200</platform>
+            <platform name="switch"> 1600</platform>
+          </platform-specific>
+        </ko-a>
+        <time-a>15 Minutes</time-a>
+        <damage-a>
+          <platform-specific>
+            <platform name="3ds"> 10000</platform>
+            <platform name="switch"> 199</platform>
+          </platform-specific>
+        </damage-a>
+        <difficulty>6</difficulty>
+      </tile>
+      <tile coordinate="O8">
+        <mission>Challenge Battle: Defeat all enemies! Lv.3</mission>
+        <loot-a>Heart Container - Ravio</loot-a>
+        <loot-v>Boomerang Item Card</loot-v>
+        <treasure/>
+        <ko-a/>
+        <time-a>15 Minutes</time-a>
+        <damage-a>
+          <platform-specific>
+            <platform name="3ds"> 10000</platform>
+            <platform name="switch"> 199</platform>
+          </platform-specific>
+        </damage-a>
+        <difficulty>6</difficulty>
+      </tile>
       <tile coordinate="P1">
         <mission>Adventure Battle: Final battle! Defeat the beast of the Ice Ruins!</mission>
         <loot-a/>
@@ -16348,6 +17347,47 @@
           </platform-specific>
         </damage-a>
         <difficulty>5</difficulty>
+      </tile>
+      <tile coordinate="P2">
+        <mission>Challenge Battle: Put an end to the enemy's divisive plan! Lv.6</mission>
+        <loot-a/>
+        <loot-v/>
+        <treasure/>
+        <ko-a/>
+        <time-a>15 Minutes</time-a>
+        <damage-a>
+          <platform-specific>
+            <platform name="3ds"> 10000</platform>
+            <platform name="switch"> 199</platform>
+          </platform-specific>
+        </damage-a>
+        <difficulty>6</difficulty>
+      </tile>
+      <tile coordinate="P3">
+        <mission>Adventure Battle: Use diversionary tactics to defeat the enemy! Lv.3</mission>
+        <loot-a/>
+        <loot-v>
+          <item>Standard Outfit (Lorule) - Twili Midna</item>
+          <item>Tornado Rod Item Card</item>
+        </loot-v>
+        <treasure>
+          <item>Heart Container - Midna (N. Entrance Keep)</item>
+          <item>Fairy Food - Hot Spring Water (Temple Square [Pot])</item>
+        </treasure>
+        <ko-a>
+          <platform-specific>
+            <platform name="3ds"> 1200</platform>
+            <platform name="switch"> 1600</platform>
+          </platform-specific>
+        </ko-a>
+        <time-a>15 Minutes</time-a>
+        <damage-a>
+          <platform-specific>
+            <platform name="3ds"> 10000</platform>
+            <platform name="switch"> 199</platform>
+          </platform-specific>
+        </damage-a>
+        <difficulty>6</difficulty>
       </tile>
       <tile coordinate="P4">
         <mission>Adventure Battle: Final battle! Defeat the dragon of the Dark Palace!</mission>
@@ -16391,6 +17431,61 @@
           </platform-specific>
         </damage-a>
         <difficulty>5</difficulty>
+      </tile>
+      <tile coordinate="P6">
+        <mission>Adventure Battle: Defeat the disorderly forces! Lv.2</mission>
+        <loot-a>Great Fairy Lv4+ - Link</loot-a>
+        <loot-v>Ice Rod Item Card</loot-v>
+        <treasure>Fairy Food - Greengill (Fairy Fountain [Pot])</treasure>
+        <ko-a>
+          <platform-specific>
+            <platform name="3ds"> 1200</platform>
+            <platform name="switch"> 1600</platform>
+          </platform-specific>
+        </ko-a>
+        <time-a>15 Minutes</time-a>
+        <damage-a>
+          <platform-specific>
+            <platform name="3ds"> 10000</platform>
+            <platform name="switch"> 199</platform>
+          </platform-specific>
+        </damage-a>
+        <difficulty>6</difficulty>
+      </tile>
+      <tile coordinate="P7">
+        <mission>Challenge Battle: Scour the battlefield in pursuit of victory! Lv.13</mission>
+        <loot-a/>
+        <loot-v/>
+        <treasure/>
+        <ko-a/>
+        <time-a>15 Minutes</time-a>
+        <damage-a>
+          <platform-specific>
+            <platform name="3ds"> 10000</platform>
+            <platform name="switch"> 199</platform>
+          </platform-specific>
+        </damage-a>
+        <difficulty>6</difficulty>
+      </tile>
+      <tile coordinate="P8">
+        <mission>Adventure Battle: Take on the warriors of Majora's Mask! Lv.2</mission>
+        <loot-a>Heart Container - King Daphnes</loot-a>
+        <loot-v>Tornado Rod Item Card</loot-v>
+        <treasure>Gold Skulltula x2</treasure>
+        <ko-a>
+          <platform-specific>
+            <platform name="3ds"> 1200</platform>
+            <platform name="switch"> 1600</platform>
+          </platform-specific>
+        </ko-a>
+        <time-a>15 Minutes</time-a>
+        <damage-a>
+          <platform-specific>
+            <platform name="3ds"> 10000</platform>
+            <platform name="switch"> 199</platform>
+          </platform-specific>
+        </damage-a>
+        <difficulty>6</difficulty>
       </tile>
     </tiles>
   </map>
