@@ -15856,6 +15856,25 @@
         </damage-a>
         <difficulty>2</difficulty>
       </tile>
+      <tile coordinate="D5">
+        <mission>Challenge Battle: Team up and defeat the enemy forces! Lv.3</mission>
+        <loot-a>
+          <platform-specific>
+            <platform name="switch"> Heart Container - Yuga</platform>
+          </platform-specific>
+        </loot-a>
+        <loot-v>Hammer Item Card</loot-v>
+        <treasure/>
+        <ko-a/>
+        <time-a>15 Minutes</time-a>
+        <damage-a>
+          <platform-specific>
+            <platform name="3ds"> 10000</platform>
+            <platform name="switch"> 199</platform>
+          </platform-specific>
+        </damage-a>
+        <difficulty>6</difficulty>
+      </tile>
       <tile coordinate="D6">
         <mission>Challenge Battle: Thwart the supercharged enemies! Lv.1</mission>
         <loot-a>Heart Container - Ruto</loot-a>
@@ -15961,6 +15980,44 @@
           </platform-specific>
         </damage-a>
         <difficulty>2</difficulty>
+      </tile>
+      <tile coordinate="E4">
+        <mission>Adventure Battle: Final battle! Defeat the giant shadow in Hyrule Castle!</mission>
+        <loot-a>Heart Container - King Daphnes</loot-a>
+        <loot-v>Fire Rod Item Card</loot-v>
+        <treasure>
+          <item>Fairy Top - Beautiful Cape (Fairy Fountain)</item>
+          <item>Fairy Food - Meat (South Field Keep [Pot])</item>
+        </treasure>
+        <ko-a>
+          <platform-specific>
+            <platform name="3ds"> 1200</platform>
+            <platform name="switch"> 1600</platform>
+          </platform-specific>
+        </ko-a>
+        <time-a>15 Minutes</time-a>
+        <damage-a>
+          <platform-specific>
+            <platform name="3ds"> 10000</platform>
+            <platform name="switch"> 199</platform>
+          </platform-specific>
+        </damage-a>
+        <difficulty>6</difficulty>
+      </tile>
+      <tile coordinate="E5">
+        <mission>Challenge Battle: Hunt down and defeat your foes! Lv.13</mission>
+        <loot-a>Heart Container - Yuga</loot-a>
+        <loot-v>Boomerang Item Card</loot-v>
+        <treasure/>
+        <ko-a/>
+        <time-a>15 Minutes</time-a>
+        <damage-a>
+          <platform-specific>
+            <platform name="3ds"> 10000</platform>
+            <platform name="switch"> 199</platform>
+          </platform-specific>
+        </damage-a>
+        <difficulty>6</difficulty>
       </tile>
       <tile coordinate="E6">
         <mission>Challenge Battle: Scour the battlefield in pursuit of victory! Lv.1</mission>
@@ -16069,6 +16126,26 @@
           </platform-specific>
         </damage-a>
         <difficulty>2</difficulty>
+      </tile>
+      <tile coordinate="F4">
+        <mission>Adventure Battle: Defeat the warriors of Skyloft! Lv.2</mission>
+        <loot-a/>
+        <loot-v/>
+        <treasure/>
+        <ko-a>
+          <platform-specific>
+            <platform name="3ds"> 1200</platform>
+            <platform name="switch"> 1600</platform>
+          </platform-specific>
+        </ko-a>
+        <time-a>15 Minutes</time-a>
+        <damage-a>
+          <platform-specific>
+            <platform name="3ds"> 10000</platform>
+            <platform name="switch"> 199</platform>
+          </platform-specific>
+        </damage-a>
+        <difficulty>6</difficulty>
       </tile>
       <tile coordinate="F5">
         <mission>Challenge Battle: Scour the battlefield in pursuit of victory! Lv.12</mission>
@@ -16915,6 +16992,44 @@
         </damage-a>
         <difficulty>6</difficulty>
       </tile>
+      <tile coordinate="L4">
+        <mission>Adventure Battle: Opposing witches from opposing worlds.</mission>
+        <loot-a>Rapier Lv.4+ - Zelda</loot-a>
+        <loot-v>Boomerang Item Card</loot-v>
+        <treasure>
+          <item>Fairy Top - Dark Beast Top (Bridge Keep)</item>
+          <item>Fairy Food - Mushroom Spores (West Field [Pot])</item>
+        </treasure>
+        <ko-a>
+          <platform-specific>
+            <platform name="3ds"> 1200</platform>
+            <platform name="switch"> 1600</platform>
+          </platform-specific>
+        </ko-a>
+        <time-a>15 Minutes</time-a>
+        <damage-a>
+          <platform-specific>
+            <platform name="3ds"> 10000</platform>
+            <platform name="switch"> 199</platform>
+          </platform-specific>
+        </damage-a>
+        <difficulty>6</difficulty>
+      </tile>
+      <tile coordinate="L5">
+        <mission>Challenge Battle: Defeat all Giant Bosses in time! Lv.5</mission>
+        <loot-a>Heart Container - Yuga</loot-a>
+        <loot-v>Fire Rod Item Card</loot-v>
+        <treasure/>
+        <ko-a/>
+        <time-a>7 Minutes</time-a>
+        <damage-a>
+          <platform-specific>
+            <platform name="3ds"> 10000</platform>
+            <platform name="switch"> 199</platform>
+          </platform-specific>
+        </damage-a>
+        <difficulty>6</difficulty>
+      </tile>
       <tile coordinate="L6">
         <mission>Challenge Battle: Defeat all Giant Bosses in time! Lv.1</mission>
         <loot-a>Heart Container - Yuga</loot-a>
@@ -16999,6 +17114,49 @@
         <loot-v>Sand Rod Item Card</loot-v>
         <treasure/>
         <ko-a/>
+        <time-a>15 Minutes</time-a>
+        <damage-a>
+          <platform-specific>
+            <platform name="3ds"> 10000</platform>
+            <platform name="switch"> 199</platform>
+          </platform-specific>
+        </damage-a>
+        <difficulty>6</difficulty>
+      </tile>
+      <tile coordinate="M4">
+        <mission>Adventure Battle: Final battle! Defeat the Demon King in Lorule Castle!</mission>
+        <loot-a/>
+        <loot-v/>
+        <treasure/>
+        <ko-a>
+          <platform-specific>
+            <platform name="3ds"> 1200</platform>
+            <platform name="switch"> 1600</platform>
+          </platform-specific>
+        </ko-a>
+        <time-a>15 Minutes</time-a>
+        <damage-a>
+          <platform-specific>
+            <platform name="3ds"> 10000</platform>
+            <platform name="switch"> 199</platform>
+          </platform-specific>
+        </damage-a>
+        <difficulty>6</difficulty>
+      </tile>
+      <tile coordinate="M5">
+        <mission>Adventure Battle: Fight the chosen ones!</mission>
+        <loot-a>Heart Container - Zant</loot-a>
+        <loot-v>Boomerang Item Card</loot-v>
+        <treasure>
+          <item>Fairy Decoration - Lorulean Earrings (SW Sage Keep)</item>
+          <item>Fairy Food - Hyoi Pear (Faces Keep [Pot])</item>
+        </treasure>
+        <ko-a>
+          <platform-specific>
+            <platform name="3ds"> 1200</platform>
+            <platform name="switch"> 1600</platform>
+          </platform-specific>
+        </ko-a>
         <time-a>15 Minutes</time-a>
         <damage-a>
           <platform-specific>
@@ -17120,6 +17278,41 @@
           </platform-specific>
         </damage-a>
         <difficulty>5</difficulty>
+      </tile>
+      <tile coordinate="N4">
+        <mission>Challenge Battle: Put an end to the enemy's divisive plan! Lv.4</mission>
+        <loot-a/>
+        <loot-v/>
+        <treasure/>
+        <ko-a/>
+        <time-a>15 Minutes</time-a>
+        <damage-a>
+          <platform-specific>
+            <platform name="3ds"> 10000</platform>
+            <platform name="switch"> 199</platform>
+          </platform-specific>
+        </damage-a>
+        <difficulty>6</difficulty>
+      </tile>
+      <tile coordinate="N5">
+        <mission>Challenge Battle: Hunt down and defeat your foes! Lv.11</mission>
+        <loot-a/>
+        <loot-v>
+          <item>Masked (Lorule) - Cia</item>
+          <item>Unmasked (Lorule) - Cia</item>
+          <item>Hatless (Lorule) - Cia</item>
+          <item>Bomb Item Card</item>
+        </loot-v>
+        <treasure/>
+        <ko-a/>
+        <time-a>15 Minutes</time-a>
+        <damage-a>
+          <platform-specific>
+            <platform name="3ds"> 10000</platform>
+            <platform name="switch"> 199</platform>
+          </platform-specific>
+        </damage-a>
+        <difficulty>6</difficulty>
       </tile>
       <tile coordinate="N6">
         <mission>Challenge Battle: Defeat all Giant Bosses in time! Lv.3</mission>
