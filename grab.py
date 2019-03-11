@@ -34,6 +34,13 @@ Chapters = [
     "lorule-map",
 ]
 
+def textContent(node):
+    """Return the text in `node`, including that in the child-nodes. This is the
+    equivalence of the text_content() method for HTML nodes, but works for both
+    HTML and XML nodes.
+    """
+    return ''.join(node.itertext())
+
 def appendAll(node, things):
     """Given `things`, a list of XML elements or strings, append elements to XML
     `node` as subelements, and append the strings as texts, in the order given
@@ -271,7 +278,9 @@ def dealWithMapTables(html):
         TableTitle = Table.getprevious()
         if TableTitle.tag != "h4":
             continue
-        Match = re.match(r"(.+) Map (.+)-(.+)", TableTitle.text.strip())
+        # Sometimes the table title has markups inside. Here textContent()
+        # (instead of .text) is used to drop those markups.
+        Match = re.match(r"(.+) Map (.+)-(.+)", textContent(TableTitle).strip())
         if Match:
             Name = Match.group(1)
             Col = Match.group(2)
