@@ -1732,8 +1732,9 @@
         <loot-v/>
         <treasure>
           <item>Piece of Heart - Young Link (S. Rockface Keep)</item>
-          <item>My Fairy (Dark) - (Enemy Base [Pot])</item>
-          <item>Fairy Food - Magic Beans (Town Center Keep [Pot])</item>
+          <platform-specific>
+            <platform name="switch"> My Fairy (Dark) - (Enemy Base [Pot])</platform>
+          </platform-specific>
         </treasure>
         <ko-a>
           <platform-specific>
